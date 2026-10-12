@@ -1,0 +1,7 @@
+usos_clon,pct_detectadas,falsos_positivos,usos_clon_aceptados,usos_clon_bloqueados
+1,34.0,0,128,22
+2,63.3,0,215,85
+3,82.7,0,242,208
+4,95.3,0,251,349
+5,99.3,0,235,515
+6,100.0,0,215,685

@@ -1,0 +1,30 @@
+# Alternativa con contenedores:  docker compose up --build
+# (el comando principal sin Docker es:  python run.py)
+services:
+  central:
+    build: .
+    command: python -m recaudo.central
+    environment: {PUERTO: "8000", ANTIFRAUDE: "1", TARIFAS_MODO: "config"}
+    ports: ["8000:8000"]
+    volumes: ["./logs:/app/logs", "./config:/app/config"]
+  enlace:
+    build: .
+    command: python -m recaudo.enlace
+    environment: {PUERTO: "8001", CENTRAL_URL: "http://central:8000"}
+    ports: ["8001:8001"]
+    volumes: ["./logs:/app/logs"]
+    depends_on: [central]
+  validador_a:
+    build: .
+    command: python -m recaudo.validador
+    environment: {PUERTO: "8101", VALIDADOR_ID: "VA", REINTENTO: "1", CENTRAL_URL: "http://enlace:8001"}
+    ports: ["8101:8101"]
+    volumes: ["./logs:/app/logs"]
+    depends_on: [enlace]
+  validador_b:
+    build: .
+    command: python -m recaudo.validador
+    environment: {PUERTO: "8102", VALIDADOR_ID: "VB", REINTENTO: "1", CENTRAL_URL: "http://enlace:8001"}
+    ports: ["8102:8102"]
+    volumes: ["./logs:/app/logs"]
+    depends_on: [enlace]

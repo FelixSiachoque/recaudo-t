@@ -1,0 +1,17 @@
+--- a/recaudo/tarifas_codigo.py
++++ b/recaudo/tarifas_codigo.py
+@@ -23,9 +23,13 @@
+         elif tipo == "estudiante":
+             if franja == "pico":
+                 return 2250
+-            return 2100
++            return 1950
+         elif tipo == "adulto_mayor":
+             if franja == "pico":
+                 return 2000
+             return 1800
++        elif tipo == "discapacidad":
++            if franja == "pico":
++                return 1600
++            return 1500
+         raise ValueError(f"tipo de usuario desconocido: {tipo}")

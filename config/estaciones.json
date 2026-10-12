@@ -1,0 +1,17 @@
+{
+  "_descripcion": "Coordenadas planas aproximadas (km) de las estaciones de la red. Las usa el motor antifraude para calcular la distancia entre dos validaciones.",
+  "estaciones": {
+    "E01": {"nombre": "Portal Norte",        "x": 2.0,  "y": 19.0},
+    "E02": {"nombre": "Terminal Centro",     "x": 9.0,  "y": 10.0},
+    "E03": {"nombre": "Plaza Mayor",         "x": 10.0, "y": 9.0},
+    "E04": {"nombre": "Universidad",         "x": 13.0, "y": 14.0},
+    "E05": {"nombre": "Hospital Regional",   "x": 6.0,  "y": 13.0},
+    "E06": {"nombre": "Portal Sur",          "x": 11.0, "y": 0.5},
+    "E07": {"nombre": "Zona Industrial",     "x": 18.0, "y": 4.0},
+    "E08": {"nombre": "Estadio",             "x": 15.0, "y": 8.0},
+    "E09": {"nombre": "Parque Occidental",   "x": 1.0,  "y": 7.0},
+    "E10": {"nombre": "Cable Aereo Base",    "x": 19.0, "y": 16.0},
+    "E11": {"nombre": "Cable Aereo Cima",    "x": 20.0, "y": 18.5},
+    "E12": {"nombre": "Mercado",             "x": 8.0,  "y": 4.0}
+  }
+}

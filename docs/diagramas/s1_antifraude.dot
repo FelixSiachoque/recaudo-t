@@ -1,0 +1,13 @@
+digraph G { graph [rankdir=LR, fontname="Helvetica", fontsize=11, nodesep=0.35, ranksep=0.55, bgcolor="white", pad=0.2];
+node [fontname="Helvetica", fontsize=10, shape=box, style="rounded,filled", fillcolor="#EEF3FA", color="#1F5FAF", penwidth=1.2];
+edge [fontname="Helvetica", fontsize=9, color="#555555"];
+ a [label="Atacante\n(usa el clon)", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"]; u [label="Titular y usuarios\nlegítimos", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"];
+ va [label="Validador VA\nlista negra local"]; vb [label="Validador VB\nlista negra local"];
+ en [label="Enlace"];
+ subgraph cluster_c { label="Servidor central"; fontname="Helvetica"; fontsize=10; color="#1F5FAF"; style="rounded";
+   val [label="/validar"]; mot [label="MotorAntifraude\n1) ¿en lista negra?\n2) velocidad = distancia / tiempo\n3) > 80 km/h → revocar", fillcolor="#DCE7F6"]; ln [label="/lista_negra\n(versión)"]; }
+ db [label="antifraude.db\núltimo uso + lista negra", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"]; bit [label="seguridad.jsonl\n(bitácora)", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"];
+ a -> va [label="tap"]; a -> vb; u -> va; u -> vb;
+ va -> en [label="validar +\nlista negra"]; vb -> en; en -> val; val -> mot; mot -> db; mot -> bit [label="clon_detectado\nuso_bloqueado"];
+ en -> ln [label="GET cada 2 s\n(validadores)", style=dashed];
+}

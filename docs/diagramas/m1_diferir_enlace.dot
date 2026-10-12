@@ -1,0 +1,11 @@
+digraph G { graph [rankdir=LR, fontname="Helvetica", fontsize=11, nodesep=0.35, ranksep=0.55, bgcolor="white", pad=0.2];
+node [fontname="Helvetica", fontsize=10, shape=box, style="rounded,filled", fillcolor="#EEF3FA", color="#1F5FAF", penwidth=1.2];
+edge [fontname="Helvetica", fontsize=9, color="#555555"];
+ op [label="Operador de tarifas\n(resolución de la alcaldía)", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"];
+ cfg [label="config/tarifas.json\nversión + tabla de reglas", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"];
+ subgraph cluster_c { label="Servidor central (sigue corriendo)"; fontname="Helvetica"; fontsize=10; color="#1F5FAF"; style="rounded";
+   tc [label="TarifasConfig\n¿cambió el archivo? (cada 0,5 s)\nvalidar → recargar", fillcolor="#DCE7F6"]; api [label="/validar  /tarifa"]; }
+ q [label="Validaciones y consultas\n(50 solicitudes/s)", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"];
+ bt [label="tarifas.jsonl\n(versiones cargadas\no rechazadas)", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"];
+ op -> cfg [label="edita"]; cfg -> tc [label="lee en tiempo\nde ejecución"]; q -> api -> tc; tc -> bt;
+}

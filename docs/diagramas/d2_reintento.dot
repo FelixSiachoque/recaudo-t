@@ -1,0 +1,14 @@
+digraph G { graph [rankdir=LR, fontname="Helvetica", fontsize=11, nodesep=0.35, ranksep=0.55, bgcolor="white", pad=0.2];
+node [fontname="Helvetica", fontsize=10, shape=box, style="rounded,filled", fillcolor="#EEF3FA", color="#1F5FAF", penwidth=1.2];
+edge [fontname="Helvetica", fontsize=9, color="#555555"];
+ u [label="Usuarios\n20 toques/s", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"];
+ subgraph cluster_v { label="Validador VA"; fontname="Helvetica"; fontsize=10; color="#1F5FAF"; style="rounded";
+   tap [label="/tap\n¿hay red?"]; cola [label="cola_VA.jsonl\n(cola persistente)", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"]; hilo [label="Hilo de reintento\nespera 0,25→0,5→1→2 s", fillcolor="#DCE7F6"]; }
+ exp [label="Experimento\n(corta y restablece\nel enlace)", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"];
+ en [label="Enlace\n(falla inyectada)"];
+ c [label="Servidor central\nidempotencia por tx_id"];
+ tx [label="central_tx.jsonl", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"];
+ u -> tap; tap -> en [label="con red"]; tap -> cola [label="sin red:\nacepta y encola"];
+ cola -> hilo; hilo -> en [label="reenvía en orden"]; en -> c -> tx;
+ exp -> en [label="/_control/falla", style=dashed];
+}

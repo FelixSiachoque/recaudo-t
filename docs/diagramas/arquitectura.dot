@@ -1,0 +1,16 @@
+digraph G { graph [rankdir=LR, fontname="Helvetica", fontsize=11, nodesep=0.35, ranksep=0.55, bgcolor="white", pad=0.2];
+node [fontname="Helvetica", fontsize=10, shape=box, style="rounded,filled", fillcolor="#EEF3FA", color="#1F5FAF", penwidth=1.2];
+edge [fontname="Helvetica", fontsize=9, color="#555555"];
+ u [label="Usuarios\n(simuladores/usuarios.py)", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"];
+ a [label="Atacante\n(simuladores/atacante_clones.py)", fillcolor="#F4F4F4", color="#888888", style="rounded,filled,dashed"];
+ va [label="Validador VA\nestaciones E01–E06\n:8101"];
+ vb [label="Validador VB\nestaciones E07–E12\n:8102"];
+ en [label="Enlace de red\n(proxy, inyecta fallas)\n:8001"];
+ c [label="Servidor central :8000\nvalidar · tarifa · saldo\nlista negra", fillcolor="#DCE7F6"];
+ db [label="antifraude.db\n(SQLite)", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"];
+ tj [label="config/\ntarifas.json", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"];
+ bl [label="logs/*.jsonl\nbitácoras", shape=cylinder, fillcolor="#FFF6E5", color="#C98A00"];
+ u -> va [label="POST /tap"]; u -> vb; a -> va; a -> vb;
+ va -> en [label="POST /validar\nGET /lista_negra"]; vb -> en; en -> c;
+ c -> db; tj -> c [label="lee en caliente"]; c -> bl;
+}

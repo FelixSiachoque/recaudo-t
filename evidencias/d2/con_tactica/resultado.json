@@ -1,0 +1,41 @@
+{
+  "reintento": true,
+  "toques": 2400,
+  "toques_aceptados": 2400,
+  "pct_aceptados": 100.0,
+  "toques_durante_falla": 1200,
+  "pct_aceptados_durante_falla": 100.0,
+  "rechazados_sin_red": 0,
+  "duracion_falla_s": 60.0,
+  "deteccion_falla_s": 0.001,
+  "reconexion_s": 1.863,
+  "sincronizacion_s": 3.545,
+  "max_en_cola": 1235,
+  "transacciones_perdidas": 0,
+  "cobros_duplicados": 0,
+  "reenvios_forzados_prueba_idempotencia": 100,
+  "reenvios_descartados_por_idempotencia": 100,
+  "intentos_cortados_por_el_enlace": 64,
+  "reintentos_fallidos": 33,
+  "peticiones_validar_al_central": 2500,
+  "latencia_toque": {
+    "n": 2400,
+    "media_ms": 2.944,
+    "p50_ms": 2.573,
+    "p95_ms": 4.843,
+    "p99_ms": 6.32,
+    "max_ms": 14.134,
+    "jitter_ms": 0.533,
+    "desv_est_ms": 1.382
+  },
+  "latencia_toque_durante_falla": {
+    "n": 1200,
+    "media_ms": 1.916,
+    "p50_ms": 1.807,
+    "p95_ms": 2.681,
+    "p99_ms": 4.564,
+    "max_ms": 11.891,
+    "jitter_ms": 0.408,
+    "desv_est_ms": 0.667
+  }
+}

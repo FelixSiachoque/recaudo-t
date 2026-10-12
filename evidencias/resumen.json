@@ -1,0 +1,403 @@
+{
+  "m1": {
+    "linea_base": {
+      "modo": "codigo",
+      "archivos_de_codigo_modificados": 1,
+      "archivos_de_configuracion_modificados": 0,
+      "lineas_agregadas": 5,
+      "lineas_borradas": 1,
+      "requirio_reinicio": true,
+      "segundos_servicio_caido": 0.079,
+      "segundos_hasta_tarifa_vigente": 0.141,
+      "solicitudes": 1000,
+      "solicitudes_fallidas_por_caida": 4,
+      "regresiones_en_tarifas_no_modificadas": 0
+    },
+    "con_tactica": {
+      "modo": "config",
+      "archivos_de_codigo_modificados": 0,
+      "archivos_de_configuracion_modificados": 1,
+      "lineas_agregadas": 4,
+      "lineas_borradas": 3,
+      "requirio_reinicio": false,
+      "segundos_servicio_caido": 0.0,
+      "segundos_hasta_tarifa_vigente": 0.14,
+      "solicitudes": 1000,
+      "solicitudes_fallidas_por_caida": 0,
+      "regresiones_en_tarifas_no_modificadas": 0
+    }
+  },
+  "s1": {
+    "linea_base": {
+      "antifraude": false,
+      "usos_totales": 2000,
+      "duracion_s": 20.3,
+      "tarjetas_clonadas": 200,
+      "clonadas_detectadas": 0,
+      "pct_clonadas_detectadas": 0.0,
+      "falsos_positivos": 0,
+      "usos_legitimos": 1000,
+      "usos_clon": 600,
+      "usos_clon_aceptados": 600,
+      "usos_clon_bloqueados": 0,
+      "pct_usos_clon_bloqueados": 0.0,
+      "usos_clon_aceptados_tras_deteccion": 0,
+      "usos_titular_bloqueados": 0,
+      "deteccion_ms_p50": null,
+      "deteccion_ms_p95": null,
+      "deteccion_ms_max": null,
+      "propagacion_s_p50": null,
+      "propagacion_s_max": null,
+      "detecciones_propagadas_a_todos": 0,
+      "registros_bitacora": 0,
+      "detecciones_reconstruibles": 0,
+      "lista_negra_central": 0
+    },
+    "con_tactica": {
+      "antifraude": true,
+      "usos_totales": 2000,
+      "duracion_s": 20.3,
+      "tarjetas_clonadas": 200,
+      "clonadas_detectadas": 178,
+      "pct_clonadas_detectadas": 89.0,
+      "falsos_positivos": 0,
+      "usos_legitimos": 1000,
+      "usos_clon": 600,
+      "usos_clon_aceptados": 291,
+      "usos_clon_bloqueados": 309,
+      "pct_usos_clon_bloqueados": 51.5,
+      "usos_clon_aceptados_tras_deteccion": 0,
+      "usos_titular_bloqueados": 264,
+      "deteccion_ms_p50": 2.71,
+      "deteccion_ms_p95": 4.36,
+      "deteccion_ms_max": 35.01,
+      "propagacion_s_p50": 0.99,
+      "propagacion_s_max": 2.0,
+      "detecciones_propagadas_a_todos": 178,
+      "registros_bitacora": 209,
+      "detecciones_reconstruibles": 178,
+      "lista_negra_central": 178
+    },
+    "barrido": [
+      {
+        "usos_clon": 1,
+        "pct_detectadas": 34.0,
+        "falsos_positivos": 0,
+        "usos_clon_aceptados": 128,
+        "usos_clon_bloqueados": 22
+      },
+      {
+        "usos_clon": 2,
+        "pct_detectadas": 63.3,
+        "falsos_positivos": 0,
+        "usos_clon_aceptados": 215,
+        "usos_clon_bloqueados": 85
+      },
+      {
+        "usos_clon": 3,
+        "pct_detectadas": 82.7,
+        "falsos_positivos": 0,
+        "usos_clon_aceptados": 242,
+        "usos_clon_bloqueados": 208
+      },
+      {
+        "usos_clon": 4,
+        "pct_detectadas": 95.3,
+        "falsos_positivos": 0,
+        "usos_clon_aceptados": 251,
+        "usos_clon_bloqueados": 349
+      },
+      {
+        "usos_clon": 5,
+        "pct_detectadas": 99.3,
+        "falsos_positivos": 0,
+        "usos_clon_aceptados": 235,
+        "usos_clon_bloqueados": 515
+      },
+      {
+        "usos_clon": 6,
+        "pct_detectadas": 100.0,
+        "falsos_positivos": 0,
+        "usos_clon_aceptados": 215,
+        "usos_clon_bloqueados": 685
+      }
+    ]
+  },
+  "d2": {
+    "linea_base": {
+      "reintento": false,
+      "toques": 2400,
+      "toques_aceptados": 1200,
+      "pct_aceptados": 50.0,
+      "toques_durante_falla": 1200,
+      "pct_aceptados_durante_falla": 0.08,
+      "rechazados_sin_red": 1200,
+      "duracion_falla_s": 60.0,
+      "deteccion_falla_s": 0.001,
+      "reconexion_s": null,
+      "sincronizacion_s": null,
+      "max_en_cola": 0,
+      "transacciones_perdidas": 0,
+      "cobros_duplicados": 0,
+      "reenvios_forzados_prueba_idempotencia": 0,
+      "reenvios_descartados_por_idempotencia": 0,
+      "intentos_cortados_por_el_enlace": 1230,
+      "reintentos_fallidos": 0,
+      "peticiones_validar_al_central": 1200,
+      "latencia_toque": {
+        "n": 1200,
+        "media_ms": 4.417,
+        "p50_ms": 4.165,
+        "p95_ms": 5.753,
+        "p99_ms": 8.723,
+        "max_ms": 57.474,
+        "jitter_ms": 0.832,
+        "desv_est_ms": 2.0
+      },
+      "latencia_toque_durante_falla": {
+        "n": 1,
+        "media_ms": 2.687,
+        "p50_ms": 2.687,
+        "p95_ms": 2.687,
+        "p99_ms": 2.687,
+        "max_ms": 2.687,
+        "jitter_ms": 0.0,
+        "desv_est_ms": 0.0
+      }
+    },
+    "con_tactica": {
+      "reintento": true,
+      "toques": 2400,
+      "toques_aceptados": 2400,
+      "pct_aceptados": 100.0,
+      "toques_durante_falla": 1200,
+      "pct_aceptados_durante_falla": 100.0,
+      "rechazados_sin_red": 0,
+      "duracion_falla_s": 60.0,
+      "deteccion_falla_s": 0.001,
+      "reconexion_s": 1.863,
+      "sincronizacion_s": 3.545,
+      "max_en_cola": 1235,
+      "transacciones_perdidas": 0,
+      "cobros_duplicados": 0,
+      "reenvios_forzados_prueba_idempotencia": 100,
+      "reenvios_descartados_por_idempotencia": 100,
+      "intentos_cortados_por_el_enlace": 64,
+      "reintentos_fallidos": 33,
+      "peticiones_validar_al_central": 2500,
+      "latencia_toque": {
+        "n": 2400,
+        "media_ms": 2.944,
+        "p50_ms": 2.573,
+        "p95_ms": 4.843,
+        "p99_ms": 6.32,
+        "max_ms": 14.134,
+        "jitter_ms": 0.533,
+        "desv_est_ms": 1.382
+      },
+      "latencia_toque_durante_falla": {
+        "n": 1200,
+        "media_ms": 1.916,
+        "p50_ms": 1.807,
+        "p95_ms": 2.681,
+        "p99_ms": 4.564,
+        "max_ms": 11.891,
+        "jitter_ms": 0.408,
+        "desv_est_ms": 0.667
+      }
+    }
+  },
+  "compromiso": {
+    "sin_deteccion": {
+      "n": 22500,
+      "media_ms": 1.436,
+      "p50_ms": 1.35,
+      "p95_ms": 1.915,
+      "p99_ms": 3.15,
+      "max_ms": 17.717,
+      "jitter_ms": 0.252,
+      "desv_est_ms": 0.503,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0,
+      "p95_por_repeticion": [
+        1.916,
+        1.818,
+        1.993
+      ]
+    },
+    "con_deteccion": {
+      "n": 22500,
+      "media_ms": 1.517,
+      "p50_ms": 1.409,
+      "p95_ms": 2.166,
+      "p99_ms": 5.597,
+      "max_ms": 30.487,
+      "jitter_ms": 0.313,
+      "desv_est_ms": 1.013,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0,
+      "p95_por_repeticion": [
+        2.326,
+        2.35,
+        1.582
+      ]
+    },
+    "con_deteccion_memoria": {
+      "n": 22500,
+      "media_ms": 1.544,
+      "p50_ms": 1.443,
+      "p95_ms": 2.098,
+      "p99_ms": 3.604,
+      "max_ms": 32.573,
+      "jitter_ms": 0.284,
+      "desv_est_ms": 0.624,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0,
+      "p95_por_repeticion": [
+        2.105,
+        2.162,
+        2.018
+      ]
+    },
+    "corridas": [
+      {
+        "n": 7500,
+        "media_ms": 1.451,
+        "p50_ms": 1.356,
+        "p95_ms": 1.916,
+        "p99_ms": 3.359,
+        "max_ms": 15.798,
+        "jitter_ms": 0.263,
+        "desv_est_ms": 0.545,
+        "condicion": "sin_deteccion",
+        "repeticion": 1,
+        "throughput_rps": 247.2,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.716,
+        "p50_ms": 1.582,
+        "p95_ms": 2.326,
+        "p99_ms": 5.943,
+        "max_ms": 30.331,
+        "jitter_ms": 0.359,
+        "desv_est_ms": 0.942,
+        "condicion": "con_deteccion",
+        "repeticion": 1,
+        "throughput_rps": 247.2,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.541,
+        "p50_ms": 1.453,
+        "p95_ms": 2.105,
+        "p99_ms": 3.586,
+        "max_ms": 12.073,
+        "jitter_ms": 0.288,
+        "desv_est_ms": 0.523,
+        "condicion": "con_deteccion_memoria",
+        "repeticion": 1,
+        "throughput_rps": 247.2,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.702,
+        "p50_ms": 1.51,
+        "p95_ms": 2.35,
+        "p99_ms": 6.62,
+        "max_ms": 30.487,
+        "jitter_ms": 0.357,
+        "desv_est_ms": 1.182,
+        "condicion": "con_deteccion",
+        "repeticion": 2,
+        "throughput_rps": 247.2,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.585,
+        "p50_ms": 1.46,
+        "p95_ms": 2.162,
+        "p99_ms": 3.706,
+        "max_ms": 25.69,
+        "jitter_ms": 0.297,
+        "desv_est_ms": 0.714,
+        "condicion": "con_deteccion_memoria",
+        "repeticion": 2,
+        "throughput_rps": 247.2,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.386,
+        "p50_ms": 1.313,
+        "p95_ms": 1.818,
+        "p99_ms": 2.926,
+        "max_ms": 9.65,
+        "jitter_ms": 0.226,
+        "desv_est_ms": 0.418,
+        "condicion": "sin_deteccion",
+        "repeticion": 2,
+        "throughput_rps": 247.2,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.505,
+        "p50_ms": 1.415,
+        "p95_ms": 2.018,
+        "p99_ms": 3.471,
+        "max_ms": 32.573,
+        "jitter_ms": 0.265,
+        "desv_est_ms": 0.619,
+        "condicion": "con_deteccion_memoria",
+        "repeticion": 3,
+        "throughput_rps": 247.1,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.471,
+        "p50_ms": 1.386,
+        "p95_ms": 1.993,
+        "p99_ms": 3.158,
+        "max_ms": 17.717,
+        "jitter_ms": 0.267,
+        "desv_est_ms": 0.531,
+        "condicion": "sin_deteccion",
+        "repeticion": 3,
+        "throughput_rps": 247.3,
+        "no_procesadas": 0
+      },
+      {
+        "n": 7500,
+        "media_ms": 1.133,
+        "p50_ms": 1.001,
+        "p95_ms": 1.582,
+        "p99_ms": 3.809,
+        "max_ms": 27.541,
+        "jitter_ms": 0.222,
+        "desv_est_ms": 0.756,
+        "condicion": "con_deteccion",
+        "repeticion": 3,
+        "throughput_rps": 247.2,
+        "no_procesadas": 0
+      }
+    ],
+    "aumento_media_ms": 0.081,
+    "aumento_p50_ms": 0.059,
+    "aumento_p95_ms": 0.251,
+    "aumento_p95_pct": 13.1,
+    "aumento_p99_ms": 2.447,
+    "costo_evaluar_us": {
+      "memoria": 1.96,
+      "sqlite": 43.75
+    },
+    "tasa_rps": 250,
+    "duracion_s": 30,
+    "repeticiones": 3
+  }
+}

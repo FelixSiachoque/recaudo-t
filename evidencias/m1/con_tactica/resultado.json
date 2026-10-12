@@ -1,0 +1,13 @@
+{
+  "modo": "config",
+  "archivos_de_codigo_modificados": 0,
+  "archivos_de_configuracion_modificados": 1,
+  "lineas_agregadas": 4,
+  "lineas_borradas": 3,
+  "requirio_reinicio": false,
+  "segundos_servicio_caido": 0.0,
+  "segundos_hasta_tarifa_vigente": 0.14,
+  "solicitudes": 1000,
+  "solicitudes_fallidas_por_caida": 0,
+  "regresiones_en_tarifas_no_modificadas": 0
+}

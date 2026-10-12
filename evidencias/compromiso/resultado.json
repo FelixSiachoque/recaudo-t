@@ -1,0 +1,193 @@
+{
+  "sin_deteccion": {
+    "n": 22500,
+    "media_ms": 1.436,
+    "p50_ms": 1.35,
+    "p95_ms": 1.915,
+    "p99_ms": 3.15,
+    "max_ms": 17.717,
+    "jitter_ms": 0.252,
+    "desv_est_ms": 0.503,
+    "throughput_rps": 247.2,
+    "no_procesadas": 0,
+    "p95_por_repeticion": [
+      1.916,
+      1.818,
+      1.993
+    ]
+  },
+  "con_deteccion": {
+    "n": 22500,
+    "media_ms": 1.517,
+    "p50_ms": 1.409,
+    "p95_ms": 2.166,
+    "p99_ms": 5.597,
+    "max_ms": 30.487,
+    "jitter_ms": 0.313,
+    "desv_est_ms": 1.013,
+    "throughput_rps": 247.2,
+    "no_procesadas": 0,
+    "p95_por_repeticion": [
+      2.326,
+      2.35,
+      1.582
+    ]
+  },
+  "con_deteccion_memoria": {
+    "n": 22500,
+    "media_ms": 1.544,
+    "p50_ms": 1.443,
+    "p95_ms": 2.098,
+    "p99_ms": 3.604,
+    "max_ms": 32.573,
+    "jitter_ms": 0.284,
+    "desv_est_ms": 0.624,
+    "throughput_rps": 247.2,
+    "no_procesadas": 0,
+    "p95_por_repeticion": [
+      2.105,
+      2.162,
+      2.018
+    ]
+  },
+  "corridas": [
+    {
+      "n": 7500,
+      "media_ms": 1.451,
+      "p50_ms": 1.356,
+      "p95_ms": 1.916,
+      "p99_ms": 3.359,
+      "max_ms": 15.798,
+      "jitter_ms": 0.263,
+      "desv_est_ms": 0.545,
+      "condicion": "sin_deteccion",
+      "repeticion": 1,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.716,
+      "p50_ms": 1.582,
+      "p95_ms": 2.326,
+      "p99_ms": 5.943,
+      "max_ms": 30.331,
+      "jitter_ms": 0.359,
+      "desv_est_ms": 0.942,
+      "condicion": "con_deteccion",
+      "repeticion": 1,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.541,
+      "p50_ms": 1.453,
+      "p95_ms": 2.105,
+      "p99_ms": 3.586,
+      "max_ms": 12.073,
+      "jitter_ms": 0.288,
+      "desv_est_ms": 0.523,
+      "condicion": "con_deteccion_memoria",
+      "repeticion": 1,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.702,
+      "p50_ms": 1.51,
+      "p95_ms": 2.35,
+      "p99_ms": 6.62,
+      "max_ms": 30.487,
+      "jitter_ms": 0.357,
+      "desv_est_ms": 1.182,
+      "condicion": "con_deteccion",
+      "repeticion": 2,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.585,
+      "p50_ms": 1.46,
+      "p95_ms": 2.162,
+      "p99_ms": 3.706,
+      "max_ms": 25.69,
+      "jitter_ms": 0.297,
+      "desv_est_ms": 0.714,
+      "condicion": "con_deteccion_memoria",
+      "repeticion": 2,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.386,
+      "p50_ms": 1.313,
+      "p95_ms": 1.818,
+      "p99_ms": 2.926,
+      "max_ms": 9.65,
+      "jitter_ms": 0.226,
+      "desv_est_ms": 0.418,
+      "condicion": "sin_deteccion",
+      "repeticion": 2,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.505,
+      "p50_ms": 1.415,
+      "p95_ms": 2.018,
+      "p99_ms": 3.471,
+      "max_ms": 32.573,
+      "jitter_ms": 0.265,
+      "desv_est_ms": 0.619,
+      "condicion": "con_deteccion_memoria",
+      "repeticion": 3,
+      "throughput_rps": 247.1,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.471,
+      "p50_ms": 1.386,
+      "p95_ms": 1.993,
+      "p99_ms": 3.158,
+      "max_ms": 17.717,
+      "jitter_ms": 0.267,
+      "desv_est_ms": 0.531,
+      "condicion": "sin_deteccion",
+      "repeticion": 3,
+      "throughput_rps": 247.3,
+      "no_procesadas": 0
+    },
+    {
+      "n": 7500,
+      "media_ms": 1.133,
+      "p50_ms": 1.001,
+      "p95_ms": 1.582,
+      "p99_ms": 3.809,
+      "max_ms": 27.541,
+      "jitter_ms": 0.222,
+      "desv_est_ms": 0.756,
+      "condicion": "con_deteccion",
+      "repeticion": 3,
+      "throughput_rps": 247.2,
+      "no_procesadas": 0
+    }
+  ],
+  "aumento_media_ms": 0.081,
+  "aumento_p50_ms": 0.059,
+  "aumento_p95_ms": 0.251,
+  "aumento_p95_pct": 13.1,
+  "aumento_p99_ms": 2.447,
+  "costo_evaluar_us": {
+    "memoria": 1.96,
+    "sqlite": 43.75
+  },
+  "tasa_rps": 250,
+  "duracion_s": 30,
+  "repeticiones": 3
+}

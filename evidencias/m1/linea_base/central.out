@@ -1,0 +1,2 @@
+[central] puerto 8000 antifraude=True tarifas=codigo
+[central] puerto 8000 antifraude=True tarifas=codigo

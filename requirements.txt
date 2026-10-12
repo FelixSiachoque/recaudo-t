@@ -1,0 +1,3 @@
+# El sistema solo usa la librería estándar de Python 3.10+.
+# matplotlib es opcional: solo se usa para dibujar las gráficas de evidencias/.
+matplotlib>=3.7

@@ -1,0 +1,819 @@
+{"ts": 1791771901.188673, "evento": "cobro", "tx_id": "VA-1-ce88f9ef", "tarjeta": "C00061", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.1985795, "evento": "cobro", "tx_id": "VB-1-6e176d55", "tarjeta": "L00101", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.2081864, "evento": "cobro", "tx_id": "VB-2-937d72b8", "tarjeta": "C00091", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.2183018, "evento": "cobro", "tx_id": "VB-3-f5acf921", "tarjeta": "L00137", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.2284007, "evento": "cobro", "tx_id": "VA-2-55a2d38d", "tarjeta": "C00075", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.238624, "evento": "cobro", "tx_id": "VB-4-dd8d61a3", "tarjeta": "C00111", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.2486994, "evento": "cobro", "tx_id": "VB-5-f5ad72c9", "tarjeta": "C00022", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.2582946, "evento": "cobro", "tx_id": "VA-3-fe23e12f", "tarjeta": "L00012", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.268455, "evento": "cobro", "tx_id": "VB-6-4107f5ae", "tarjeta": "L00033", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.2784476, "evento": "cobro", "tx_id": "VB-7-9b15a06e", "tarjeta": "C00126", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.289755, "evento": "cobro", "tx_id": "VA-4-5196354e", "tarjeta": "C00082", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.2985404, "evento": "cobro", "tx_id": "VA-5-32dd6048", "tarjeta": "C00072", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.3084908, "evento": "cobro", "tx_id": "VA-6-659efae1", "tarjeta": "C00005", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.3182282, "evento": "cobro", "tx_id": "VA-7-1bbd7f26", "tarjeta": "C00130", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.328684, "evento": "cobro", "tx_id": "VB-8-5bfb678d", "tarjeta": "C00074", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.3388371, "evento": "cobro", "tx_id": "VB-9-34198c17", "tarjeta": "C00146", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.348702, "evento": "cobro", "tx_id": "VA-8-e8936ff5", "tarjeta": "C00030", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.3589706, "evento": "cobro", "tx_id": "VB-10-7f58d6a7", "tarjeta": "C00068", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.368406, "evento": "cobro", "tx_id": "VA-9-6c15d6d0", "tarjeta": "C00048", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.3785477, "evento": "cobro", "tx_id": "VA-10-1b6ec399", "tarjeta": "C00034", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.388588, "evento": "cobro", "tx_id": "VB-11-21c5f04a", "tarjeta": "C00009", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.3984094, "evento": "cobro", "tx_id": "VB-12-54624029", "tarjeta": "C00095", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.4117143, "evento": "cobro", "tx_id": "VA-11-cb86beb3", "tarjeta": "C00128", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.4182968, "evento": "cobro", "tx_id": "VA-12-9ff60aec", "tarjeta": "C00066", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.4281814, "evento": "cobro", "tx_id": "VA-13-53d76a98", "tarjeta": "C00143", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.441101, "evento": "cobro", "tx_id": "VA-14-babe4331", "tarjeta": "L00117", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.4511578, "evento": "cobro", "tx_id": "VB-13-341f0566", "tarjeta": "L00059", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771901.458327, "evento": "cobro", "tx_id": "VB-14-eb9fc86a", "tarjeta": "L00010", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.468329, "evento": "cobro", "tx_id": "VB-15-d7a9fddf", "tarjeta": "C00135", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.4780345, "evento": "cobro", "tx_id": "VB-16-99207a60", "tarjeta": "C00041", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.4895854, "evento": "cobro", "tx_id": "VA-15-f02f43e0", "tarjeta": "C00105", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.4983635, "evento": "rechazo", "tx_id": "VB-17-f17934db", "tarjeta": "C00075", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771901.5083563, "evento": "cobro", "tx_id": "VA-16-0ae4afb7", "tarjeta": "C00094", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.518701, "evento": "cobro", "tx_id": "VB-18-0a1fd465", "tarjeta": "C00103", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.5319302, "evento": "cobro", "tx_id": "VA-17-b38df244", "tarjeta": "C00080", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.5382624, "evento": "cobro", "tx_id": "VB-19-a6ee5ec2", "tarjeta": "C00027", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.5488477, "evento": "cobro", "tx_id": "VB-20-805a4066", "tarjeta": "C00016", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.5583982, "evento": "cobro", "tx_id": "VB-21-e60271cc", "tarjeta": "C00013", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.5682151, "evento": "cobro", "tx_id": "VB-22-37bed800", "tarjeta": "C00138", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.5782611, "evento": "cobro", "tx_id": "VB-23-5b1a52b0", "tarjeta": "C00032", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.5882134, "evento": "cobro", "tx_id": "VA-18-2aa023bb", "tarjeta": "C00037", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.598647, "evento": "cobro", "tx_id": "VA-19-5c1b0e91", "tarjeta": "C00098", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6086216, "evento": "cobro", "tx_id": "VA-20-6a2d34cc", "tarjeta": "C00089", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6183863, "evento": "rechazo", "tx_id": "VA-21-d7d2524a", "tarjeta": "C00037", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771901.6281843, "evento": "cobro", "tx_id": "VB-24-3920edf5", "tarjeta": "C00081", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.6385808, "evento": "cobro", "tx_id": "VA-22-2a8eb8bd", "tarjeta": "L00085", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6521776, "evento": "cobro", "tx_id": "VA-23-cd8088ff", "tarjeta": "C00035", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6581347, "evento": "cobro", "tx_id": "VA-24-13cc2de4", "tarjeta": "C00104", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6691232, "evento": "cobro", "tx_id": "VA-25-823ae0bd", "tarjeta": "L00043", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6801476, "evento": "cobro", "tx_id": "VA-26-2279e21c", "tarjeta": "C00053", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6888669, "evento": "cobro", "tx_id": "VA-27-9831c869", "tarjeta": "C00121", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.6982331, "evento": "rechazo", "tx_id": "VB-25-da937da7", "tarjeta": "C00094", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771901.708131, "evento": "cobro", "tx_id": "VB-26-d5568215", "tarjeta": "C00059", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.7182329, "evento": "cobro", "tx_id": "VB-27-9d753690", "tarjeta": "L00060", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.7280357, "evento": "cobro", "tx_id": "VB-28-ba3a57eb", "tarjeta": "L00122", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771901.7381923, "evento": "cobro", "tx_id": "VA-28-db557ced", "tarjeta": "C00110", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.74865, "evento": "cobro", "tx_id": "VA-29-123979ef", "tarjeta": "C00096", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.7581425, "evento": "cobro", "tx_id": "VB-29-ac406031", "tarjeta": "C00087", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.7685492, "evento": "cobro", "tx_id": "VA-30-6f8f0df9", "tarjeta": "C00026", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.778577, "evento": "cobro", "tx_id": "VA-31-f6e64255", "tarjeta": "C00058", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.7882166, "evento": "cobro", "tx_id": "VB-30-084901e4", "tarjeta": "C00140", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.7988255, "evento": "cobro", "tx_id": "VB-31-acf163f6", "tarjeta": "C00076", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.8090327, "evento": "cobro", "tx_id": "VA-32-0f612fe2", "tarjeta": "C00131", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.8184106, "evento": "cobro", "tx_id": "VA-33-00a05772", "tarjeta": "L00077", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771901.828681, "evento": "cobro", "tx_id": "VA-34-c44d3027", "tarjeta": "C00025", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.8385515, "evento": "cobro", "tx_id": "VA-35-348524dc", "tarjeta": "C00007", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.8485343, "evento": "cobro", "tx_id": "VA-36-f753fac1", "tarjeta": "C00060", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.858345, "evento": "cobro", "tx_id": "VA-37-cb9fbffc", "tarjeta": "C00031", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.869216, "evento": "cobro", "tx_id": "VA-38-5fad477b", "tarjeta": "C00086", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.8785589, "evento": "cobro", "tx_id": "VA-39-1488e25d", "tarjeta": "C00004", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.8886693, "evento": "cobro", "tx_id": "VB-32-1a484b35", "tarjeta": "C00147", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.8984215, "evento": "cobro", "tx_id": "VA-40-e6fb886d", "tarjeta": "C00148", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.9085677, "evento": "cobro", "tx_id": "VB-33-0ba83717", "tarjeta": "C00020", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.9183912, "evento": "cobro", "tx_id": "VB-34-defe4571", "tarjeta": "C00083", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.9281301, "evento": "rechazo", "tx_id": "VA-41-b599c0a0", "tarjeta": "C00027", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771901.9385936, "evento": "cobro", "tx_id": "VA-42-27443f14", "tarjeta": "L00064", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.9489014, "evento": "cobro", "tx_id": "VA-43-60c63afa", "tarjeta": "L00001", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.9587646, "evento": "cobro", "tx_id": "VB-35-5f5552c8", "tarjeta": "C00124", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771901.9686058, "evento": "cobro", "tx_id": "VA-44-89b06754", "tarjeta": "C00134", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771901.9785736, "evento": "cobro", "tx_id": "VB-36-e398851b", "tarjeta": "L00096", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771901.988789, "evento": "rechazo", "tx_id": "VA-45-13a63f7d", "tarjeta": "C00020", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771901.9986749, "evento": "cobro", "tx_id": "VA-46-e018005a", "tarjeta": "C00066", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.0086977, "evento": "cobro", "tx_id": "VA-47-506e4db5", "tarjeta": "L00053", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.0198596, "evento": "cobro", "tx_id": "VB-37-c5290eb4", "tarjeta": "C00129", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.028117, "evento": "cobro", "tx_id": "VB-38-c2f556b3", "tarjeta": "C00065", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.038324, "evento": "rechazo", "tx_id": "VA-48-61b15e74", "tarjeta": "C00140", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.048593, "evento": "rechazo", "tx_id": "VA-49-178fcb77", "tarjeta": "C00061", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.0584202, "evento": "cobro", "tx_id": "VA-50-350c679b", "tarjeta": "C00064", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.0683942, "evento": "cobro", "tx_id": "VA-51-b73787b2", "tarjeta": "L00045", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.078, "evento": "cobro", "tx_id": "VA-52-5a298c56", "tarjeta": "C00017", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.0883698, "evento": "cobro", "tx_id": "VB-39-114a35fd", "tarjeta": "C00127", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.098597, "evento": "cobro", "tx_id": "VA-53-cf9ad336", "tarjeta": "C00039", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.1083794, "evento": "cobro", "tx_id": "VA-54-021f5b07", "tarjeta": "C00144", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.1185544, "evento": "rechazo", "tx_id": "VA-55-328b79da", "tarjeta": "C00004", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.1286573, "evento": "rechazo", "tx_id": "VB-40-52a99a8d", "tarjeta": "C00065", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.1384234, "evento": "rechazo", "tx_id": "VB-41-d2ca1131", "tarjeta": "C00144", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.1481462, "evento": "cobro", "tx_id": "VB-42-cbd9a0bd", "tarjeta": "L00104", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771902.1588175, "evento": "rechazo", "tx_id": "VA-56-e3b691d1", "tarjeta": "C00131", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.1683376, "evento": "cobro", "tx_id": "VA-57-5d337831", "tarjeta": "C00073", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.1782062, "evento": "cobro", "tx_id": "VA-58-343298c0", "tarjeta": "L00080", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771902.1880844, "evento": "cobro", "tx_id": "VB-43-5c3c85dc", "tarjeta": "L00124", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771902.1983523, "evento": "cobro", "tx_id": "VA-59-a979cbee", "tarjeta": "C00119", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.211127, "evento": "cobro", "tx_id": "VB-44-67311382", "tarjeta": "C00011", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.2185264, "evento": "cobro", "tx_id": "VB-45-9df1400a", "tarjeta": "C00043", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.2282002, "evento": "cobro", "tx_id": "VB-46-c1d27eaf", "tarjeta": "C00019", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.238267, "evento": "cobro", "tx_id": "VB-47-540d32a1", "tarjeta": "C00133", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.2484152, "evento": "cobro", "tx_id": "VB-48-e8529981", "tarjeta": "L00038", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.2613354, "evento": "cobro", "tx_id": "VA-60-b4d2365d", "tarjeta": "C00088", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.2687137, "evento": "cobro", "tx_id": "VA-61-2b9fe589", "tarjeta": "C00122", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.2787826, "evento": "cobro", "tx_id": "VB-49-d04c8e6e", "tarjeta": "C00062", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.2888916, "evento": "cobro", "tx_id": "VA-62-4a76ac23", "tarjeta": "C00101", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.2984827, "evento": "cobro", "tx_id": "VA-63-447591c5", "tarjeta": "C00029", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.3087423, "evento": "cobro", "tx_id": "VA-64-b7b30f7b", "tarjeta": "C00099", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.318627, "evento": "cobro", "tx_id": "VB-50-d11401a5", "tarjeta": "L00134", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771902.3286655, "evento": "cobro", "tx_id": "VB-51-0769560a", "tarjeta": "L00037", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.3385253, "evento": "cobro", "tx_id": "VA-65-eff967ee", "tarjeta": "C00012", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.3487222, "evento": "cobro", "tx_id": "VB-52-1f572a9e", "tarjeta": "C00093", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.3583424, "evento": "cobro", "tx_id": "VB-53-13ae228c", "tarjeta": "C00070", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.3688543, "evento": "cobro", "tx_id": "VA-66-a71d35a7", "tarjeta": "C00132", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.3794332, "evento": "rechazo", "tx_id": "VA-67-476bd368", "tarjeta": "C00019", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.388604, "evento": "rechazo", "tx_id": "VB-54-3f17f6a3", "tarjeta": "C00061", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771902.398627, "evento": "rechazo", "tx_id": "VB-55-3331acfe", "tarjeta": "C00101", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.408666, "evento": "cobro", "tx_id": "VA-68-75da090e", "tarjeta": "C00123", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.4190664, "evento": "cobro", "tx_id": "VB-56-bdbd2686", "tarjeta": "C00036", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.428626, "evento": "cobro", "tx_id": "VB-57-5341f6cd", "tarjeta": "C00115", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.438789, "evento": "cobro", "tx_id": "VB-58-ce077402", "tarjeta": "C00085", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.4488537, "evento": "rechazo", "tx_id": "VB-59-5ffaf089", "tarjeta": "C00081", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.4588726, "evento": "rechazo", "tx_id": "VA-69-cf4cdbd7", "tarjeta": "C00060", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.469692, "evento": "cobro", "tx_id": "VA-70-bc93effc", "tarjeta": "C00079", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.478718, "evento": "cobro", "tx_id": "VA-71-fa7191f8", "tarjeta": "C00132", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.488498, "evento": "cobro", "tx_id": "VB-60-17b74baf", "tarjeta": "L00109", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771902.4989154, "evento": "cobro", "tx_id": "VB-61-735af7ba", "tarjeta": "C00024", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.5088897, "evento": "cobro", "tx_id": "VB-62-dcc91d65", "tarjeta": "C00136", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.5188556, "evento": "cobro", "tx_id": "VB-63-529af621", "tarjeta": "C00109", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.5293195, "evento": "rechazo", "tx_id": "VA-72-4ea76eb7", "tarjeta": "C00073", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.5387952, "evento": "rechazo", "tx_id": "VB-64-7cdea8b4", "tarjeta": "C00094", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771902.548895, "evento": "rechazo", "tx_id": "VB-65-72f1f53f", "tarjeta": "C00036", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.5587935, "evento": "cobro", "tx_id": "VA-73-777a9fe4", "tarjeta": "L00131", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.568832, "evento": "cobro", "tx_id": "VA-74-d8cd9f80", "tarjeta": "L00142", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771902.5788465, "evento": "cobro", "tx_id": "VA-75-b708d389", "tarjeta": "C00008", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.588941, "evento": "rechazo", "tx_id": "VA-76-5a8b335a", "tarjeta": "C00115", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.5986724, "evento": "cobro", "tx_id": "VB-66-68105b15", "tarjeta": "L00066", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771902.608793, "evento": "cobro", "tx_id": "VB-67-430fa206", "tarjeta": "C00054", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.6188896, "evento": "rechazo", "tx_id": "VB-68-0781d7be", "tarjeta": "C00129", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.628694, "evento": "cobro", "tx_id": "VA-77-64ae8323", "tarjeta": "L00018", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771902.6389108, "evento": "cobro", "tx_id": "VA-78-177f3a0a", "tarjeta": "L00072", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771902.6490567, "evento": "cobro", "tx_id": "VB-69-5cccae08", "tarjeta": "C00056", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.6600013, "evento": "cobro", "tx_id": "VA-79-ab6eb980", "tarjeta": "L00017", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.6688883, "evento": "cobro", "tx_id": "VB-70-0d262bc6", "tarjeta": "C00142", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.679619, "evento": "rechazo", "tx_id": "VB-71-af7da7d3", "tarjeta": "C00026", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.6888273, "evento": "cobro", "tx_id": "VA-80-27cf5847", "tarjeta": "C00002", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.698855, "evento": "cobro", "tx_id": "VA-81-1b88366b", "tarjeta": "L00081", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.708806, "evento": "cobro", "tx_id": "VB-72-2773e0e5", "tarjeta": "C00047", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.719021, "evento": "rechazo", "tx_id": "VA-82-6e06b655", "tarjeta": "C00086", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.7286222, "evento": "cobro", "tx_id": "VB-73-8c38f461", "tarjeta": "C00063", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.7409306, "evento": "cobro", "tx_id": "VB-74-319826f8", "tarjeta": "L00011", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.7485375, "evento": "cobro", "tx_id": "VB-75-0a3de7eb", "tarjeta": "C00042", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.758832, "evento": "cobro", "tx_id": "VA-83-ab42017d", "tarjeta": "C00022", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.7685666, "evento": "rechazo", "tx_id": "VB-76-7e8333d3", "tarjeta": "C00136", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.77841, "evento": "cobro", "tx_id": "VB-77-b2d5b2e7", "tarjeta": "C00112", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.7885273, "evento": "cobro", "tx_id": "VA-84-0579aebd", "tarjeta": "C00106", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.798901, "evento": "cobro", "tx_id": "VB-78-3c94d7c0", "tarjeta": "L00061", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771902.8083146, "evento": "cobro", "tx_id": "VA-85-75f2281b", "tarjeta": "C00128", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.8187737, "evento": "rechazo", "tx_id": "VA-86-c6d327aa", "tarjeta": "C00119", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.828788, "evento": "cobro", "tx_id": "VB-79-33dba151", "tarjeta": "C00108", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.8382592, "evento": "cobro", "tx_id": "VA-87-21bd3155", "tarjeta": "C00001", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.8484206, "evento": "cobro", "tx_id": "VA-88-4815ad41", "tarjeta": "C00099", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.8583367, "evento": "cobro", "tx_id": "VA-89-51dbd791", "tarjeta": "L00097", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.8681104, "evento": "cobro", "tx_id": "VA-90-a77f9785", "tarjeta": "C00077", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.878699, "evento": "rechazo", "tx_id": "VA-91-d1fd9f38", "tarjeta": "C00127", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.888921, "evento": "cobro", "tx_id": "VB-80-feb9b7b9", "tarjeta": "C00143", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.8982546, "evento": "cobro", "tx_id": "VB-81-b9ace160", "tarjeta": "C00040", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.9085007, "evento": "rechazo", "tx_id": "VA-92-0b64db2d", "tarjeta": "C00024", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.9289443, "evento": "cobro", "tx_id": "VB-82-50eb64e0", "tarjeta": "L00063", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771902.9389358, "evento": "rechazo", "tx_id": "VA-94-707103ac", "tarjeta": "C00056", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.948754, "evento": "cobro", "tx_id": "VA-95-53ee13b9", "tarjeta": "L00073", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.960996, "evento": "cobro", "tx_id": "VB-83-d78a5993", "tarjeta": "C00049", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.9683213, "evento": "cobro", "tx_id": "VA-96-97dda84a", "tarjeta": "C00122", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771902.978668, "evento": "rechazo", "tx_id": "VB-84-22c6df89", "tarjeta": "C00108", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771902.9882617, "evento": "cobro", "tx_id": "VB-85-1a5da448", "tarjeta": "C00116", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771902.998338, "evento": "cobro", "tx_id": "VB-86-ecc9869e", "tarjeta": "C00006", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.0084891, "evento": "cobro", "tx_id": "VA-97-16445948", "tarjeta": "L00057", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771903.018936, "evento": "rechazo", "tx_id": "VA-98-c7fb32fa", "tarjeta": "C00142", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.0317967, "evento": "cobro", "tx_id": "VA-99-e7998a6a", "tarjeta": "C00145", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.039167, "evento": "cobro", "tx_id": "VA-100-fb8559f9", "tarjeta": "L00148", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.0482407, "evento": "cobro", "tx_id": "VA-101-dd46f0bd", "tarjeta": "C00069", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.0582447, "evento": "rechazo", "tx_id": "VB-87-208b067f", "tarjeta": "C00049", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.0688422, "evento": "cobro", "tx_id": "VA-102-bf43911a", "tarjeta": "C00120", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.0882242, "evento": "cobro", "tx_id": "VB-88-2a9c10bf", "tarjeta": "C00011", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.0982249, "evento": "cobro", "tx_id": "VB-89-9624fe23", "tarjeta": "C00052", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.118296, "evento": "cobro", "tx_id": "VA-105-6a95b366", "tarjeta": "C00057", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.1281946, "evento": "cobro", "tx_id": "VA-106-0e366c2a", "tarjeta": "C00013", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.1383777, "evento": "cobro", "tx_id": "VA-107-139df94c", "tarjeta": "C00137", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.1483927, "evento": "rechazo", "tx_id": "VB-90-09b76644", "tarjeta": "C00049", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771903.1585705, "evento": "cobro", "tx_id": "VA-108-a86157f8", "tarjeta": "L00030", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.1789715, "evento": "cobro", "tx_id": "VB-92-7820b9b5", "tarjeta": "C00089", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.1889007, "evento": "cobro", "tx_id": "VB-93-ab624761", "tarjeta": "C00117", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.1986916, "evento": "cobro", "tx_id": "VB-94-b9d13c72", "tarjeta": "C00050", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.209073, "evento": "cobro", "tx_id": "VB-95-08dac36c", "tarjeta": "C00082", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.2185085, "evento": "rechazo", "tx_id": "VA-109-35f9183d", "tarjeta": "C00008", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.2284286, "evento": "cobro", "tx_id": "VB-96-6a2215a8", "tarjeta": "C00028", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.2382243, "evento": "rechazo", "tx_id": "VA-110-d1a0da3e", "tarjeta": "C00128", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.2482636, "evento": "rechazo", "tx_id": "VA-111-daf328a8", "tarjeta": "C00079", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.2590797, "evento": "cobro", "tx_id": "VA-112-58eb8afd", "tarjeta": "C00072", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.2685573, "evento": "cobro", "tx_id": "VB-97-a5d536ef", "tarjeta": "L00074", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771903.278973, "evento": "cobro", "tx_id": "VA-113-463c26ba", "tarjeta": "C00059", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.288672, "evento": "cobro", "tx_id": "VB-98-f322083d", "tarjeta": "C00141", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.2990215, "evento": "cobro", "tx_id": "VB-99-e5ff7af7", "tarjeta": "L00130", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.3097315, "evento": "rechazo", "tx_id": "VA-114-04e19099", "tarjeta": "C00059", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.3186111, "evento": "cobro", "tx_id": "VB-100-ce973afd", "tarjeta": "C00093", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.328255, "evento": "cobro", "tx_id": "VA-115-e7a51496", "tarjeta": "C00096", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.338549, "evento": "cobro", "tx_id": "VB-101-cc29f2a7", "tarjeta": "C00148", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.3483062, "evento": "cobro", "tx_id": "VB-102-1ac1c287", "tarjeta": "C00014", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.3590293, "evento": "cobro", "tx_id": "VA-116-b7b52115", "tarjeta": "L00119", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.3686643, "evento": "cobro", "tx_id": "VA-117-6831def8", "tarjeta": "C00018", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.3784046, "evento": "cobro", "tx_id": "VB-103-ebf9317d", "tarjeta": "C00022", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.3886263, "evento": "cobro", "tx_id": "VB-104-80d2b6d4", "tarjeta": "L00052", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.3990874, "evento": "rechazo", "tx_id": "VA-118-3b70dd35", "tarjeta": "C00050", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.4188182, "evento": "cobro", "tx_id": "VB-105-65d5d5af", "tarjeta": "L00019", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.4290574, "evento": "rechazo", "tx_id": "VA-120-b58de740", "tarjeta": "C00054", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.438994, "evento": "cobro", "tx_id": "VA-121-b39460a7", "tarjeta": "C00085", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.4489398, "evento": "rechazo", "tx_id": "VB-106-b3ed102d", "tarjeta": "C00122", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.4586897, "evento": "rechazo", "tx_id": "VB-107-e7dc7d54", "tarjeta": "C00008", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771903.4689684, "evento": "cobro", "tx_id": "VA-122-a10873e0", "tarjeta": "C00100", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.4794765, "evento": "cobro", "tx_id": "VB-108-b2b0a021", "tarjeta": "C00038", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.4885955, "evento": "cobro", "tx_id": "VA-123-33e90bb9", "tarjeta": "C00123", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.499317, "evento": "cobro", "tx_id": "VA-124-3a901d4b", "tarjeta": "C00100", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.5088644, "evento": "rechazo", "tx_id": "VA-125-029008a6", "tarjeta": "C00025", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.518726, "evento": "cobro", "tx_id": "VB-109-277730e8", "tarjeta": "L00147", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.5291452, "evento": "rechazo", "tx_id": "VA-126-91f94f54", "tarjeta": "C00070", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.5388806, "evento": "cobro", "tx_id": "VB-110-2ace4025", "tarjeta": "C00139", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.5495713, "evento": "cobro", "tx_id": "VB-111-f5e5b6ad", "tarjeta": "C00146", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.5588906, "evento": "cobro", "tx_id": "VB-112-aea04ca9", "tarjeta": "C00076", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.569039, "evento": "cobro", "tx_id": "VA-127-1c07ed52", "tarjeta": "L00021", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.5802145, "evento": "cobro", "tx_id": "VA-128-91c6b536", "tarjeta": "C00009", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.5885432, "evento": "cobro", "tx_id": "VA-129-c947b0f2", "tarjeta": "C00021", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.598558, "evento": "cobro", "tx_id": "VB-113-58f2abe9", "tarjeta": "C00080", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.6098347, "evento": "cobro", "tx_id": "VA-130-1dcb2174", "tarjeta": "C00113", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.618332, "evento": "cobro", "tx_id": "VA-131-f0b2e6e5", "tarjeta": "C00121", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.6285558, "evento": "rechazo", "tx_id": "VA-132-afb8f279", "tarjeta": "C00070", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771903.6391788, "evento": "rechazo", "tx_id": "VA-133-a77b4b24", "tarjeta": "C00080", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.6486201, "evento": "cobro", "tx_id": "VB-114-a4cfe914", "tarjeta": "C00135", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.6583395, "evento": "rechazo", "tx_id": "VB-115-59ee92b8", "tarjeta": "C00085", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.668672, "evento": "cobro", "tx_id": "VA-134-af4ffd17", "tarjeta": "L00123", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771903.6781328, "evento": "cobro", "tx_id": "VA-135-2d6ede7c", "tarjeta": "C00088", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.6880133, "evento": "cobro", "tx_id": "VA-136-82283f01", "tarjeta": "C00149", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.6981223, "evento": "cobro", "tx_id": "VA-137-ecde7375", "tarjeta": "L00007", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771903.707999, "evento": "cobro", "tx_id": "VA-138-a61640a6", "tarjeta": "L00092", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.7182395, "evento": "cobro", "tx_id": "VA-139-4702cb41", "tarjeta": "C00147", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.7283428, "evento": "rechazo", "tx_id": "VA-140-ba7bb835", "tarjeta": "C00119", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771903.738406, "evento": "rechazo", "tx_id": "VB-116-ca0c4bbc", "tarjeta": "C00147", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.7485545, "evento": "cobro", "tx_id": "VA-141-49a1fa72", "tarjeta": "C00015", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.7582612, "evento": "cobro", "tx_id": "VA-142-a37b324c", "tarjeta": "L00099", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771903.768596, "evento": "cobro", "tx_id": "VA-143-1ebd0ecb", "tarjeta": "C00092", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.778671, "evento": "cobro", "tx_id": "VB-117-749c10ab", "tarjeta": "L00087", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.7882588, "evento": "cobro", "tx_id": "VA-144-6f4f6e30", "tarjeta": "C00084", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.7984195, "evento": "rechazo", "tx_id": "VA-145-a49a7c44", "tarjeta": "C00021", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.8082526, "evento": "cobro", "tx_id": "VB-118-e8d29cb4", "tarjeta": "C00043", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.818727, "evento": "cobro", "tx_id": "VA-146-a53fca87", "tarjeta": "C00066", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.828283, "evento": "cobro", "tx_id": "VB-119-4843c655", "tarjeta": "L00145", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771903.8382163, "evento": "cobro", "tx_id": "VA-147-53d2b366", "tarjeta": "C00125", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.848193, "evento": "cobro", "tx_id": "VB-120-b04e7c03", "tarjeta": "L00002", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.8680081, "evento": "cobro", "tx_id": "VB-122-3efe0e17", "tarjeta": "C00077", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.8781617, "evento": "cobro", "tx_id": "VB-123-c510a766", "tarjeta": "C00044", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.8882456, "evento": "cobro", "tx_id": "VB-124-abbb1536", "tarjeta": "C00017", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.9031644, "evento": "rechazo", "tx_id": "VA-148-a02c0004", "tarjeta": "C00050", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771903.909758, "evento": "cobro", "tx_id": "VB-125-024885dd", "tarjeta": "C00030", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.9184203, "evento": "cobro", "tx_id": "VA-149-82a31e22", "tarjeta": "C00126", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771903.9288862, "evento": "rechazo", "tx_id": "VA-150-553e6865", "tarjeta": "C00117", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.9381297, "evento": "rechazo", "tx_id": "VB-126-830e8e89", "tarjeta": "C00012", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.9488518, "evento": "cobro", "tx_id": "VB-127-fe48b4b7", "tarjeta": "C00071", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.9587939, "evento": "cobro", "tx_id": "VB-128-1777e7bd", "tarjeta": "C00005", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.9683075, "evento": "cobro", "tx_id": "VB-129-76dd205c", "tarjeta": "C00000", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771903.9785695, "evento": "rechazo", "tx_id": "VB-130-adab47df", "tarjeta": "C00108", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771903.9889414, "evento": "rechazo", "tx_id": "VB-131-187f7e94", "tarjeta": "C00052", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771903.9988546, "evento": "cobro", "tx_id": "VA-151-0c87d573", "tarjeta": "C00053", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.0088997, "evento": "rechazo", "tx_id": "VB-132-b6eedf11", "tarjeta": "C00085", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.0185993, "evento": "cobro", "tx_id": "VA-152-c9b0291f", "tarjeta": "L00098", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771904.029114, "evento": "cobro", "tx_id": "VA-153-48f42ae9", "tarjeta": "C00104", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.0388007, "evento": "cobro", "tx_id": "VA-154-79bca9e5", "tarjeta": "L00135", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771904.0586107, "evento": "cobro", "tx_id": "VB-134-29247761", "tarjeta": "C00055", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.0687969, "evento": "cobro", "tx_id": "VB-135-20c2851b", "tarjeta": "C00102", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.07801, "evento": "cobro", "tx_id": "VB-136-b609d987", "tarjeta": "C00143", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.0881262, "evento": "cobro", "tx_id": "VA-155-866ae234", "tarjeta": "L00000", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.0983949, "evento": "cobro", "tx_id": "VB-137-ce1a7248", "tarjeta": "L00003", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.108101, "evento": "rechazo", "tx_id": "VA-156-cf6ed672", "tarjeta": "C00102", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.1187997, "evento": "cobro", "tx_id": "VB-138-dabea207", "tarjeta": "C00042", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.128091, "evento": "cobro", "tx_id": "VB-139-ea158433", "tarjeta": "L00121", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771904.138199, "evento": "cobro", "tx_id": "VA-157-9d95e263", "tarjeta": "L00140", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.1487455, "evento": "cobro", "tx_id": "VA-158-6b3b3339", "tarjeta": "L00086", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.158183, "evento": "cobro", "tx_id": "VA-159-36a0f0ab", "tarjeta": "L00062", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.1700387, "evento": "rechazo", "tx_id": "VA-160-bc5c4cb4", "tarjeta": "C00066", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.1781805, "evento": "cobro", "tx_id": "VB-140-c372939d", "tarjeta": "C00097", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.1881151, "evento": "cobro", "tx_id": "VB-141-a7428068", "tarjeta": "C00105", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.2089746, "evento": "rechazo", "tx_id": "VA-162-b4afffe4", "tarjeta": "C00053", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.2188025, "evento": "cobro", "tx_id": "VB-142-371823e8", "tarjeta": "C00028", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.2282, "evento": "cobro", "tx_id": "VB-143-9957fbc8", "tarjeta": "L00004", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.2385836, "evento": "rechazo", "tx_id": "VB-144-04a85d14", "tarjeta": "C00009", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.2510157, "evento": "cobro", "tx_id": "VA-163-64db964e", "tarjeta": "C00113", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.2688584, "evento": "cobro", "tx_id": "VB-145-7676ea7c", "tarjeta": "L00055", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771904.2809234, "evento": "rechazo", "tx_id": "VB-146-f8eebf1b", "tarjeta": "C00137", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.2890642, "evento": "rechazo", "tx_id": "VB-147-e5a01ae6", "tarjeta": "C00002", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.297976, "evento": "cobro", "tx_id": "VA-165-cbcfd0e8", "tarjeta": "L00138", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771904.3080854, "evento": "cobro", "tx_id": "VB-148-bf395f49", "tarjeta": "C00133", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.3181021, "evento": "rechazo", "tx_id": "VB-149-7355e21a", "tarjeta": "C00054", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.3284929, "evento": "cobro", "tx_id": "VB-150-1d1d09dd", "tarjeta": "L00070", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.3385432, "evento": "cobro", "tx_id": "VB-151-b870ad5f", "tarjeta": "L00082", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.3486593, "evento": "cobro", "tx_id": "VA-166-b17e64c0", "tarjeta": "C00048", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.3585856, "evento": "cobro", "tx_id": "VA-167-059c9510", "tarjeta": "C00091", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.368852, "evento": "rechazo", "tx_id": "VA-168-b10344f4", "tarjeta": "C00126", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.378974, "evento": "cobro", "tx_id": "VA-169-5c194525", "tarjeta": "L00076", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771904.3881192, "evento": "cobro", "tx_id": "VB-152-f9fa26ac", "tarjeta": "C00033", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.3995326, "evento": "rechazo", "tx_id": "VB-153-7f1c0a53", "tarjeta": "C00126", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.408878, "evento": "cobro", "tx_id": "VA-170-0f0e0821", "tarjeta": "C00023", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.4188924, "evento": "cobro", "tx_id": "VB-154-6b289e03", "tarjeta": "L00048", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771904.4281898, "evento": "rechazo", "tx_id": "VB-155-327d4786", "tarjeta": "C00048", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.438084, "evento": "cobro", "tx_id": "VB-156-cd3f8715", "tarjeta": "C00074", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.4500272, "evento": "cobro", "tx_id": "VB-157-f6e427b5", "tarjeta": "C00138", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.4587255, "evento": "cobro", "tx_id": "VB-158-fd0dff73", "tarjeta": "C00006", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.4683392, "evento": "cobro", "tx_id": "VA-171-5273e74b", "tarjeta": "L00107", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771904.4797177, "evento": "rechazo", "tx_id": "VA-172-1e897ace", "tarjeta": "C00054", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.489288, "evento": "cobro", "tx_id": "VA-173-0bbe82e1", "tarjeta": "L00058", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.4989238, "evento": "cobro", "tx_id": "VA-174-ce871102", "tarjeta": "C00062", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.5084722, "evento": "cobro", "tx_id": "VB-159-5447292d", "tarjeta": "C00082", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.5183797, "evento": "rechazo", "tx_id": "VB-160-18eb63ca", "tarjeta": "C00097", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.5282698, "evento": "cobro", "tx_id": "VB-161-bb37a71d", "tarjeta": "C00110", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.5384972, "evento": "cobro", "tx_id": "VA-175-4b438d46", "tarjeta": "C00078", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.5488157, "evento": "rechazo", "tx_id": "VB-162-888b32c2", "tarjeta": "C00000", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.5586305, "evento": "cobro", "tx_id": "VA-176-28b17d9a", "tarjeta": "C00069", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.5685613, "evento": "rechazo", "tx_id": "VB-163-39efe8c5", "tarjeta": "C00078", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.5785186, "evento": "rechazo", "tx_id": "VB-164-285c2c95", "tarjeta": "C00012", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.5893693, "evento": "rechazo", "tx_id": "VA-177-f4c10986", "tarjeta": "C00033", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.5987759, "evento": "cobro", "tx_id": "VB-165-d6ee75f0", "tarjeta": "C00034", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.608461, "evento": "cobro", "tx_id": "VA-178-e560e8b0", "tarjeta": "C00130", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.619005, "evento": "cobro", "tx_id": "VB-166-ff418de0", "tarjeta": "C00047", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.6285558, "evento": "cobro", "tx_id": "VB-167-de4ba6d8", "tarjeta": "L00132", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.6391325, "evento": "cobro", "tx_id": "VB-168-f03d779e", "tarjeta": "C00145", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.6492639, "evento": "cobro", "tx_id": "VA-179-2d8956e8", "tarjeta": "L00013", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.670521, "evento": "rechazo", "tx_id": "VA-181-b8ba9b00", "tarjeta": "C00108", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.6788664, "evento": "rechazo", "tx_id": "VA-182-1128376b", "tarjeta": "C00127", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.6889238, "evento": "cobro", "tx_id": "VA-183-8f97612e", "tarjeta": "C00007", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.6988378, "evento": "cobro", "tx_id": "VB-169-513391c3", "tarjeta": "L00014", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771904.7080402, "evento": "cobro", "tx_id": "VA-184-c1007449", "tarjeta": "L00105", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771904.7181337, "evento": "cobro", "tx_id": "VA-185-79e0f9e9", "tarjeta": "C00003", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.7280426, "evento": "rechazo", "tx_id": "VA-186-6993397e", "tarjeta": "C00088", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.7390792, "evento": "cobro", "tx_id": "VB-170-3ad40645", "tarjeta": "C00103", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.7479537, "evento": "rechazo", "tx_id": "VA-187-60ce61fe", "tarjeta": "C00059", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.7587729, "evento": "cobro", "tx_id": "VA-188-59bf9139", "tarjeta": "C00016", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.7679985, "evento": "rechazo", "tx_id": "VB-171-bc43eb3f", "tarjeta": "C00009", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771904.7784762, "evento": "cobro", "tx_id": "VA-189-9410b098", "tarjeta": "L00032", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.7878737, "evento": "rechazo", "tx_id": "VB-172-94643c9c", "tarjeta": "C00082", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.80822, "evento": "cobro", "tx_id": "VA-191-f689c046", "tarjeta": "L00034", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.8185902, "evento": "cobro", "tx_id": "VB-173-a53da086", "tarjeta": "L00106", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.8386114, "evento": "cobro", "tx_id": "VB-174-c7279028", "tarjeta": "C00087", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.848598, "evento": "cobro", "tx_id": "VA-193-340839db", "tarjeta": "C00111", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.8784814, "evento": "cobro", "tx_id": "VA-194-c92771b5", "tarjeta": "L00054", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.8882637, "evento": "cobro", "tx_id": "VA-195-525873b2", "tarjeta": "L00091", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.8981893, "evento": "cobro", "tx_id": "VB-177-d524d696", "tarjeta": "C00031", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771904.9080217, "evento": "cobro", "tx_id": "VA-196-d021bdc5", "tarjeta": "L00012", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.918061, "evento": "rechazo", "tx_id": "VB-178-9033524e", "tarjeta": "C00133", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.927982, "evento": "cobro", "tx_id": "VA-197-4f3e0bd3", "tarjeta": "C00114", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.9481628, "evento": "cobro", "tx_id": "VA-198-9fd7bb10", "tarjeta": "L00118", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.968366, "evento": "rechazo", "tx_id": "VA-199-2a22215f", "tarjeta": "C00092", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.9787614, "evento": "rechazo", "tx_id": "VB-181-09e75e1d", "tarjeta": "C00016", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771904.9887974, "evento": "cobro", "tx_id": "VA-200-698a8be2", "tarjeta": "C00044", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771904.9986572, "evento": "rechazo", "tx_id": "VA-201-6caa2af0", "tarjeta": "C00148", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.0085936, "evento": "rechazo", "tx_id": "VB-182-c71b061e", "tarjeta": "C00031", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.0187426, "evento": "rechazo", "tx_id": "VB-183-eb48a3f6", "tarjeta": "C00043", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.039046, "evento": "cobro", "tx_id": "VB-184-438ad8dd", "tarjeta": "L00016", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771905.048314, "evento": "cobro", "tx_id": "VB-185-64bab6fe", "tarjeta": "C00001", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.058677, "evento": "rechazo", "tx_id": "VB-186-476d1cb2", "tarjeta": "C00003", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.0685136, "evento": "cobro", "tx_id": "VB-187-ced96596", "tarjeta": "C00098", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.0891395, "evento": "cobro", "tx_id": "VB-189-de67e641", "tarjeta": "C00125", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.098667, "evento": "rechazo", "tx_id": "VB-190-722e801f", "tarjeta": "C00003", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771905.108518, "evento": "cobro", "tx_id": "VA-203-4ff24455", "tarjeta": "C00013", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.1286712, "evento": "rechazo", "tx_id": "VA-205-9138fd22", "tarjeta": "C00145", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.138503, "evento": "cobro", "tx_id": "VA-206-c6b507fc", "tarjeta": "C00106", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.1484456, "evento": "cobro", "tx_id": "VB-191-15ef41d2", "tarjeta": "L00111", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771905.1583586, "evento": "cobro", "tx_id": "VA-207-620814bb", "tarjeta": "L00133", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771905.1689289, "evento": "rechazo", "tx_id": "VA-208-a15ef434", "tarjeta": "C00104", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.1882083, "evento": "rechazo", "tx_id": "VA-210-db9541ab", "tarjeta": "C00023", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.198505, "evento": "cobro", "tx_id": "VB-192-57ff5b17", "tarjeta": "C00064", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.2082791, "evento": "cobro", "tx_id": "VB-193-efa36c2a", "tarjeta": "C00010", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.2185037, "evento": "rechazo", "tx_id": "VB-194-577e17e1", "tarjeta": "C00130", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.2282202, "evento": "rechazo", "tx_id": "VB-195-d2259269", "tarjeta": "C00034", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.2386775, "evento": "cobro", "tx_id": "VB-196-b2dd2928", "tarjeta": "C00051", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.2485566, "evento": "rechazo", "tx_id": "VA-211-79a6bc7c", "tarjeta": "C00064", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.2582686, "evento": "rechazo", "tx_id": "VB-197-d66b2a7a", "tarjeta": "C00013", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.2783196, "evento": "cobro", "tx_id": "VB-198-3e432231", "tarjeta": "C00123", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.2885156, "evento": "cobro", "tx_id": "VB-199-cead4646", "tarjeta": "C00040", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.2981126, "evento": "cobro", "tx_id": "VB-200-f4c69440", "tarjeta": "L00026", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.3079178, "evento": "cobro", "tx_id": "VA-213-a8b8d130", "tarjeta": "L00075", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771905.318108, "evento": "cobro", "tx_id": "VA-214-ca3a4f35", "tarjeta": "C00112", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.3281565, "evento": "cobro", "tx_id": "VB-201-082b13c8", "tarjeta": "C00046", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.3386903, "evento": "cobro", "tx_id": "VB-202-4ac32c2b", "tarjeta": "C00074", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.3483741, "evento": "cobro", "tx_id": "VA-215-feefaa38", "tarjeta": "C00018", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.3583195, "evento": "cobro", "tx_id": "VA-216-9df9730e", "tarjeta": "C00141", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.3681302, "evento": "rechazo", "tx_id": "VA-217-a9b85505", "tarjeta": "C00145", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771905.378336, "evento": "cobro", "tx_id": "VA-218-6e7a55c5", "tarjeta": "L00136", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.388171, "evento": "cobro", "tx_id": "VA-219-27684ac8", "tarjeta": "C00089", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.4114892, "evento": "cobro", "tx_id": "VB-203-241ed405", "tarjeta": "C00011", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.411968, "evento": "cobro", "tx_id": "VB-204-4f3edc9f", "tarjeta": "C00029", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.418237, "evento": "rechazo", "tx_id": "VA-220-39a43382", "tarjeta": "C00123", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.4288354, "evento": "rechazo", "tx_id": "VA-221-ed1c73c2", "tarjeta": "C00074", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.438949, "evento": "cobro", "tx_id": "VA-222-5d9c62df", "tarjeta": "L00102", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.4487834, "evento": "cobro", "tx_id": "VA-223-8beba9cc", "tarjeta": "L00056", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.4733932, "evento": "cobro", "tx_id": "VB-205-6a79af65", "tarjeta": "L00040", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.4885762, "evento": "cobro", "tx_id": "VA-225-428f0a39", "tarjeta": "C00118", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.500341, "evento": "cobro", "tx_id": "VB-207-b1d3c99f", "tarjeta": "L00067", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.5080285, "evento": "cobro", "tx_id": "VB-208-6a15bcb8", "tarjeta": "L00069", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.518469, "evento": "cobro", "tx_id": "VB-209-97c42fd3", "tarjeta": "C00014", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.5406315, "evento": "cobro", "tx_id": "VB-210-e12ddca4", "tarjeta": "C00038", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.5423372, "evento": "rechazo", "tx_id": "VA-226-04dbc20b", "tarjeta": "C00143", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.5485392, "evento": "rechazo", "tx_id": "VB-211-437adc1c", "tarjeta": "C00001", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.5581908, "evento": "cobro", "tx_id": "VB-212-d5310de0", "tarjeta": "C00124", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.5689363, "evento": "cobro", "tx_id": "VB-213-b44d2adf", "tarjeta": "C00028", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.5886362, "evento": "cobro", "tx_id": "VA-228-5ee373b7", "tarjeta": "C00022", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.6012287, "evento": "cobro", "tx_id": "VA-229-b696fa18", "tarjeta": "C00067", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.6212118, "evento": "rechazo", "tx_id": "VA-231-23352592", "tarjeta": "C00104", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771905.6280828, "evento": "cobro", "tx_id": "VB-214-137b3241", "tarjeta": "C00057", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.638841, "evento": "rechazo", "tx_id": "VB-215-3e741bde", "tarjeta": "C00029", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.65836, "evento": "cobro", "tx_id": "VB-217-99194173", "tarjeta": "C00084", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.6713643, "evento": "cobro", "tx_id": "VA-232-3d34a277", "tarjeta": "L00116", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771905.6784832, "evento": "cobro", "tx_id": "VA-233-80a5fb45", "tarjeta": "C00118", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.68893, "evento": "cobro", "tx_id": "VB-218-227e8d49", "tarjeta": "C00005", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.6990688, "evento": "rechazo", "tx_id": "VA-234-51dda5e5", "tarjeta": "C00010", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.7388158, "evento": "cobro", "tx_id": "VB-221-c6b178df", "tarjeta": "C00134", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.758568, "evento": "rechazo", "tx_id": "VA-237-983db35b", "tarjeta": "C00125", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.7693832, "evento": "cobro", "tx_id": "VB-222-09fe3c5a", "tarjeta": "L00078", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771905.778597, "evento": "cobro", "tx_id": "VA-238-cbe1f9b1", "tarjeta": "C00058", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.8085735, "evento": "cobro", "tx_id": "VB-225-5a2021d9", "tarjeta": "C00015", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.818678, "evento": "cobro", "tx_id": "VA-239-d3c454a1", "tarjeta": "C00089", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.82836, "evento": "cobro", "tx_id": "VB-226-9acaaa23", "tarjeta": "L00090", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.8382747, "evento": "rechazo", "tx_id": "VA-240-eb7c5791", "tarjeta": "C00038", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.8481927, "evento": "cobro", "tx_id": "VB-227-536b7eb1", "tarjeta": "C00035", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.8682182, "evento": "rechazo", "tx_id": "VA-242-e7551ce4", "tarjeta": "C00010", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771905.8786726, "evento": "cobro", "tx_id": "VB-228-d7fb33a0", "tarjeta": "L00059", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771905.8882368, "evento": "cobro", "tx_id": "VA-243-94570f42", "tarjeta": "C00006", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.8987274, "evento": "rechazo", "tx_id": "VA-244-a1132cae", "tarjeta": "C00082", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771905.9083087, "evento": "cobro", "tx_id": "VB-229-d6062add", "tarjeta": "L00023", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.9282851, "evento": "cobro", "tx_id": "VA-246-8c2dab47", "tarjeta": "C00107", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.9385488, "evento": "rechazo", "tx_id": "VA-247-e4c9b327", "tarjeta": "C00134", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771905.9482358, "evento": "cobro", "tx_id": "VB-230-dbef799a", "tarjeta": "C00069", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.9583397, "evento": "cobro", "tx_id": "VA-248-020e4de3", "tarjeta": "L00113", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.968196, "evento": "cobro", "tx_id": "VA-249-0d2eb630", "tarjeta": "L00140", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.9785252, "evento": "cobro", "tx_id": "VA-250-b9eb7e61", "tarjeta": "C00120", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771905.9881217, "evento": "cobro", "tx_id": "VB-231-b48d432b", "tarjeta": "C00139", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771905.9980652, "evento": "cobro", "tx_id": "VA-251-92dfa331", "tarjeta": "L00080", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771906.0082018, "evento": "rechazo", "tx_id": "VA-252-80ca9db2", "tarjeta": "C00112", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.0181952, "evento": "rechazo", "tx_id": "VA-253-8387b4d3", "tarjeta": "C00084", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.0283513, "evento": "cobro", "tx_id": "VB-232-f43f4991", "tarjeta": "L00049", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771906.0381737, "evento": "cobro", "tx_id": "VA-254-e0aeb7c7", "tarjeta": "C00045", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.0482802, "evento": "cobro", "tx_id": "VB-233-e5d02895", "tarjeta": "C00041", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.0685356, "evento": "cobro", "tx_id": "VA-255-5610dc68", "tarjeta": "C00017", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.0781062, "evento": "cobro", "tx_id": "VB-235-d0ab2fe8", "tarjeta": "L00137", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.0883565, "evento": "cobro", "tx_id": "VA-256-22bdd3ed", "tarjeta": "C00068", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.108565, "evento": "cobro", "tx_id": "VB-237-8f7c967a", "tarjeta": "C00083", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.1185875, "evento": "cobro", "tx_id": "VA-257-db65b5c0", "tarjeta": "C00103", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.128135, "evento": "rechazo", "tx_id": "VA-258-97f7ef02", "tarjeta": "C00029", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.1483266, "evento": "rechazo", "tx_id": "VA-259-4d0d3acd", "tarjeta": "C00106", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.158191, "evento": "cobro", "tx_id": "VB-239-9d9f2abc", "tarjeta": "C00063", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.1691241, "evento": "cobro", "tx_id": "VB-240-a75effb3", "tarjeta": "C00109", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.1780503, "evento": "cobro", "tx_id": "VB-241-70612783", "tarjeta": "C00149", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.1885989, "evento": "cobro", "tx_id": "VB-242-cd4e8c14", "tarjeta": "C00039", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.198028, "evento": "cobro", "tx_id": "VB-243-f9792cf1", "tarjeta": "L00114", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771906.2083242, "evento": "cobro", "tx_id": "VA-260-26d80201", "tarjeta": "C00095", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.2188447, "evento": "cobro", "tx_id": "VB-244-add8769f", "tarjeta": "C00018", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.2281065, "evento": "rechazo", "tx_id": "VB-245-6a9a81aa", "tarjeta": "C00015", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.2384553, "evento": "cobro", "tx_id": "VB-246-34a0a5c7", "tarjeta": "L00095", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771906.248911, "evento": "rechazo", "tx_id": "VB-247-88e80f67", "tarjeta": "C00046", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.258496, "evento": "cobro", "tx_id": "VB-248-74346438", "tarjeta": "C00100", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.2904563, "evento": "rechazo", "tx_id": "VA-262-e57a0568", "tarjeta": "C00112", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.2986073, "evento": "cobro", "tx_id": "VB-250-61ccd812", "tarjeta": "C00030", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.308148, "evento": "rechazo", "tx_id": "VB-251-ed7d9baa", "tarjeta": "C00023", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.31826, "evento": "rechazo", "tx_id": "VB-252-63092120", "tarjeta": "C00106", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.3281107, "evento": "cobro", "tx_id": "VB-253-e25dffcc", "tarjeta": "L00050", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.338161, "evento": "cobro", "tx_id": "VB-254-1c776d27", "tarjeta": "C00121", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.3582044, "evento": "cobro", "tx_id": "VA-263-77911682", "tarjeta": "C00007", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.3682635, "evento": "cobro", "tx_id": "VB-256-3097efb7", "tarjeta": "C00110", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.3788254, "evento": "rechazo", "tx_id": "VB-257-2873a184", "tarjeta": "C00120", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.3886533, "evento": "cobro", "tx_id": "VA-264-8f43752d", "tarjeta": "L00143", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.398596, "evento": "cobro", "tx_id": "VA-265-8f9be7f1", "tarjeta": "C00072", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.4085174, "evento": "rechazo", "tx_id": "VB-258-fff381ad", "tarjeta": "C00107", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.4184604, "evento": "cobro", "tx_id": "VB-259-98bcd146", "tarjeta": "C00055", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.4286847, "evento": "cobro", "tx_id": "VB-260-f4b62cc3", "tarjeta": "L00018", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771906.4383597, "evento": "rechazo", "tx_id": "VA-266-674729c9", "tarjeta": "C00106", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.4489028, "evento": "rechazo", "tx_id": "VA-267-aad90ad7", "tarjeta": "C00045", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.4681644, "evento": "cobro", "tx_id": "VA-269-c5187bfb", "tarjeta": "L00071", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771906.488157, "evento": "rechazo", "tx_id": "VB-262-b5c324b5", "tarjeta": "C00058", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.4982352, "evento": "cobro", "tx_id": "VB-263-ef455b0c", "tarjeta": "L00055", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771906.508377, "evento": "rechazo", "tx_id": "VB-264-6e6f02d0", "tarjeta": "C00063", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.5380943, "evento": "cobro", "tx_id": "VB-267-7cc37ef0", "tarjeta": "C00105", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.548515, "evento": "cobro", "tx_id": "VA-270-91987cd3", "tarjeta": "L00110", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771906.5585246, "evento": "rechazo", "tx_id": "VB-268-8d4cc825", "tarjeta": "C00035", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.5885975, "evento": "rechazo", "tx_id": "VB-271-48c6e710", "tarjeta": "C00110", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.5984406, "evento": "rechazo", "tx_id": "VB-272-7bc8598d", "tarjeta": "C00028", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.6101086, "evento": "rechazo", "tx_id": "VB-273-be6100bd", "tarjeta": "C00130", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.628139, "evento": "cobro", "tx_id": "VA-272-c33ccc4d", "tarjeta": "C00071", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.63828, "evento": "cobro", "tx_id": "VA-273-bfc13a0d", "tarjeta": "C00114", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.6484318, "evento": "cobro", "tx_id": "VA-274-6248890c", "tarjeta": "L00037", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.6583798, "evento": "rechazo", "tx_id": "VB-274-248a4d87", "tarjeta": "C00123", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.6789184, "evento": "cobro", "tx_id": "VA-276-5f370e6c", "tarjeta": "C00090", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.6884391, "evento": "rechazo", "tx_id": "VA-277-d6009b91", "tarjeta": "C00003", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.6982973, "evento": "rechazo", "tx_id": "VA-278-50bf7464", "tarjeta": "C00067", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.708025, "evento": "rechazo", "tx_id": "VA-279-2dfba994", "tarjeta": "C00130", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.718576, "evento": "rechazo", "tx_id": "VA-280-16336a12", "tarjeta": "C00107", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771906.7484493, "evento": "cobro", "tx_id": "VA-282-5d99b515", "tarjeta": "C00098", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.7587755, "evento": "cobro", "tx_id": "VB-276-a45c7d26", "tarjeta": "L00036", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771906.7689493, "evento": "rechazo", "tx_id": "VA-283-b257ab48", "tarjeta": "C00109", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.7785265, "evento": "cobro", "tx_id": "VA-284-40c979e7", "tarjeta": "C00135", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.7877982, "evento": "cobro", "tx_id": "VB-277-6d324411", "tarjeta": "L00112", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771906.7989676, "evento": "cobro", "tx_id": "VA-285-3197d016", "tarjeta": "C00069", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.828987, "evento": "rechazo", "tx_id": "VA-288-78afd252", "tarjeta": "C00121", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.8384705, "evento": "cobro", "tx_id": "VA-289-730fa4e5", "tarjeta": "C00087", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.8585064, "evento": "cobro", "tx_id": "VA-291-520d9fa7", "tarjeta": "L00008", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.8699794, "evento": "rechazo", "tx_id": "VB-278-fb971004", "tarjeta": "C00051", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.8789694, "evento": "cobro", "tx_id": "VA-292-fe8ac9fb", "tarjeta": "C00040", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.8986948, "evento": "rechazo", "tx_id": "VB-279-3bed8316", "tarjeta": "C00105", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771906.9185302, "evento": "cobro", "tx_id": "VA-295-cd54c984", "tarjeta": "C00032", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.9286199, "evento": "cobro", "tx_id": "VB-280-4287d693", "tarjeta": "C00099", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.9487314, "evento": "cobro", "tx_id": "VA-296-0f716b1f", "tarjeta": "L00011", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771906.9581413, "evento": "cobro", "tx_id": "VB-282-61a0ba2e", "tarjeta": "L00128", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771906.9680507, "evento": "cobro", "tx_id": "VB-283-8a76f9ff", "tarjeta": "C00116", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771906.9783502, "evento": "cobro", "tx_id": "VB-284-aed793b2", "tarjeta": "C00041", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.0082242, "evento": "cobro", "tx_id": "VB-286-5f5182f6", "tarjeta": "L00046", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.0184915, "evento": "cobro", "tx_id": "VA-298-4a4642db", "tarjeta": "L00010", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.028226, "evento": "cobro", "tx_id": "VB-287-40334fa3", "tarjeta": "L00094", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771907.0482614, "evento": "cobro", "tx_id": "VA-299-c277b615", "tarjeta": "L00115", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771907.058671, "evento": "rechazo", "tx_id": "VB-289-abf3a102", "tarjeta": "C00055", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.0787957, "evento": "cobro", "tx_id": "VB-290-e6c12466", "tarjeta": "C00062", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.1082253, "evento": "cobro", "tx_id": "VA-301-c87b6149", "tarjeta": "C00091", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.118423, "evento": "rechazo", "tx_id": "VA-302-bbb827f0", "tarjeta": "C00014", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.1285977, "evento": "cobro", "tx_id": "VB-293-7b8b121c", "tarjeta": "L00126", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.1486623, "evento": "cobro", "tx_id": "VA-304-6dd2134f", "tarjeta": "C00113", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.158096, "evento": "cobro", "tx_id": "VA-305-f4d273e4", "tarjeta": "L00035", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.168129, "evento": "cobro", "tx_id": "VA-306-185429ab", "tarjeta": "L00139", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771907.178085, "evento": "cobro", "tx_id": "VB-294-9c6c0da8", "tarjeta": "L00142", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771907.1885257, "evento": "rechazo", "tx_id": "VA-307-b581b099", "tarjeta": "C00135", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.1981409, "evento": "cobro", "tx_id": "VA-308-c3240314", "tarjeta": "C00057", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.2081885, "evento": "cobro", "tx_id": "VB-295-20d1f558", "tarjeta": "L00019", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.228534, "evento": "cobro", "tx_id": "VA-309-c1b2de1f", "tarjeta": "C00018", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.2582607, "evento": "cobro", "tx_id": "VA-312-2c788de7", "tarjeta": "C00146", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.2885425, "evento": "cobro", "tx_id": "VB-298-506c33e1", "tarjeta": "C00017", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.3090289, "evento": "cobro", "tx_id": "VB-300-536f030e", "tarjeta": "C00011", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.319184, "evento": "cobro", "tx_id": "VB-301-0c92b959", "tarjeta": "L00144", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.3486817, "evento": "cobro", "tx_id": "VA-315-17bb7b66", "tarjeta": "L00027", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771907.35885, "evento": "cobro", "tx_id": "VB-303-0f9c7fad", "tarjeta": "C00093", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.3684645, "evento": "cobro", "tx_id": "VB-304-e1a0f96d", "tarjeta": "L00089", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771907.389098, "evento": "cobro", "tx_id": "VB-306-444496ea", "tarjeta": "C00141", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.4088361, "evento": "cobro", "tx_id": "VA-316-194f6e39", "tarjeta": "C00098", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.4184706, "evento": "rechazo", "tx_id": "VA-317-01547000", "tarjeta": "C00041", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.4486525, "evento": "rechazo", "tx_id": "VB-308-5fa787df", "tarjeta": "C00055", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771907.4583688, "evento": "rechazo", "tx_id": "VA-320-59aa7def", "tarjeta": "C00014", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771907.4684885, "evento": "cobro", "tx_id": "VB-309-40f1d07a", "tarjeta": "C00039", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.4805615, "evento": "cobro", "tx_id": "VB-310-f29dbf17", "tarjeta": "L00079", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771907.488097, "evento": "cobro", "tx_id": "VA-321-5c316e73", "tarjeta": "C00077", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.4985175, "evento": "cobro", "tx_id": "VB-311-44272dbf", "tarjeta": "C00042", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.5186572, "evento": "cobro", "tx_id": "VB-312-cafd5d08", "tarjeta": "C00089", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.5281105, "evento": "cobro", "tx_id": "VA-323-676e0984", "tarjeta": "C00096", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.558428, "evento": "cobro", "tx_id": "VB-314-660ad9e5", "tarjeta": "C00068", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.5681314, "evento": "cobro", "tx_id": "VB-315-f131efdc", "tarjeta": "C00083", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.5781898, "evento": "cobro", "tx_id": "VB-316-acb3d2b6", "tarjeta": "L00149", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771907.598904, "evento": "rechazo", "tx_id": "VB-317-59b1c454", "tarjeta": "C00090", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.6084678, "evento": "cobro", "tx_id": "VB-318-4b8e032a", "tarjeta": "L00041", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.6382341, "evento": "cobro", "tx_id": "VB-320-356e0ad4", "tarjeta": "C00118", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.648613, "evento": "cobro", "tx_id": "VB-321-b4421736", "tarjeta": "L00039", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771907.668214, "evento": "cobro", "tx_id": "VA-327-0a8b68fd", "tarjeta": "C00132", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.6784716, "evento": "cobro", "tx_id": "VB-323-87c2b76b", "tarjeta": "L00088", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.688078, "evento": "cobro", "tx_id": "VA-328-8e7083a8", "tarjeta": "L00043", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771907.698269, "evento": "rechazo", "tx_id": "VA-329-db7ba935", "tarjeta": "C00149", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.7081943, "evento": "cobro", "tx_id": "VB-324-954aa015", "tarjeta": "C00118", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.7186816, "evento": "cobro", "tx_id": "VB-325-2989196d", "tarjeta": "C00114", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.7284646, "evento": "rechazo", "tx_id": "VB-326-590e2ca5", "tarjeta": "C00071", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.7384152, "evento": "cobro", "tx_id": "VB-327-b5c9aab6", "tarjeta": "C00095", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.7481751, "evento": "rechazo", "tx_id": "VB-328-22943dc9", "tarjeta": "C00077", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.778966, "evento": "cobro", "tx_id": "VA-331-5187d2ec", "tarjeta": "C00044", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.789352, "evento": "cobro", "tx_id": "VB-330-b5df93cb", "tarjeta": "C00139", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.7988844, "evento": "rechazo", "tx_id": "VB-331-6287d818", "tarjeta": "C00114", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.808118, "evento": "cobro", "tx_id": "VB-332-eecfc408", "tarjeta": "L00006", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.838912, "evento": "rechazo", "tx_id": "VA-333-650824ba", "tarjeta": "C00030", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.8591363, "evento": "rechazo", "tx_id": "VB-335-a855e10c", "tarjeta": "C00062", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.878629, "evento": "cobro", "tx_id": "VA-335-ccb2eada", "tarjeta": "L00015", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771907.8884494, "evento": "cobro", "tx_id": "VB-336-8e901e02", "tarjeta": "L00020", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771907.9088085, "evento": "rechazo", "tx_id": "VB-337-5e5e0af0", "tarjeta": "C00087", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771907.9184108, "evento": "cobro", "tx_id": "VA-337-6ef3dc8c", "tarjeta": "L00017", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.958568, "evento": "cobro", "tx_id": "VA-339-49c521d4", "tarjeta": "L00146", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771907.968871, "evento": "rechazo", "tx_id": "VA-340-93817437", "tarjeta": "C00091", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.008788, "evento": "cobro", "tx_id": "VA-344-39ad7ae5", "tarjeta": "L00022", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.0189424, "evento": "rechazo", "tx_id": "VB-340-d95add34", "tarjeta": "C00040", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.0286024, "evento": "cobro", "tx_id": "VB-341-6e3b52c3", "tarjeta": "C00113", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.048416, "evento": "rechazo", "tx_id": "VA-346-69ec8d4a", "tarjeta": "C00090", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.0590558, "evento": "cobro", "tx_id": "VA-347-1f2134d1", "tarjeta": "L00061", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.0683181, "evento": "rechazo", "tx_id": "VB-342-4fe5c191", "tarjeta": "C00093", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.0786257, "evento": "cobro", "tx_id": "VA-348-5b76b708", "tarjeta": "C00099", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.0988386, "evento": "cobro", "tx_id": "VA-349-905c54c5", "tarjeta": "L00005", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.1082368, "evento": "cobro", "tx_id": "VB-344-211b60b9", "tarjeta": "C00111", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.1186998, "evento": "cobro", "tx_id": "VA-350-0957d8f7", "tarjeta": "C00076", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.1282275, "evento": "cobro", "tx_id": "VB-345-d8125800", "tarjeta": "L00042", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.1383243, "evento": "cobro", "tx_id": "VA-351-b0f8d758", "tarjeta": "L00077", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.158543, "evento": "rechazo", "tx_id": "VB-346-42b9da4d", "tarjeta": "C00030", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.1782224, "evento": "cobro", "tx_id": "VA-354-19e4972e", "tarjeta": "L00025", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771908.188128, "evento": "cobro", "tx_id": "VB-347-a7c96280", "tarjeta": "C00100", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.198411, "evento": "cobro", "tx_id": "VA-355-37193dd4", "tarjeta": "C00103", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.2084177, "evento": "cobro", "tx_id": "VA-356-ecd9763f", "tarjeta": "C00032", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.2181244, "evento": "rechazo", "tx_id": "VB-348-5abc6e81", "tarjeta": "C00071", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.2481003, "evento": "cobro", "tx_id": "VA-358-f22b0f9f", "tarjeta": "C00006", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.2584758, "evento": "cobro", "tx_id": "VA-359-f082534e", "tarjeta": "L00068", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.2782052, "evento": "cobro", "tx_id": "VB-351-91d5b19b", "tarjeta": "C00124", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.288526, "evento": "cobro", "tx_id": "VB-352-5fdd8b96", "tarjeta": "L00058", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.2983255, "evento": "cobro", "tx_id": "VA-360-85f18f2e", "tarjeta": "C00146", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.3193347, "evento": "rechazo", "tx_id": "VA-361-51f76a51", "tarjeta": "C00006", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.3381793, "evento": "rechazo", "tx_id": "VA-363-ef15b79d", "tarjeta": "C00149", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.3486848, "evento": "cobro", "tx_id": "VA-364-2e5f9ed5", "tarjeta": "C00047", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.358532, "evento": "cobro", "tx_id": "VA-365-87f8c50f", "tarjeta": "C00096", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.3685849, "evento": "cobro", "tx_id": "VB-354-b6e4fefe", "tarjeta": "L00087", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.3781903, "evento": "cobro", "tx_id": "VA-366-f666ad09", "tarjeta": "L00031", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.4184463, "evento": "cobro", "tx_id": "VA-369-52ecf2df", "tarjeta": "L00001", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.4281673, "evento": "cobro", "tx_id": "VB-356-6be1d190", "tarjeta": "L00032", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.4389462, "evento": "rechazo", "tx_id": "VA-370-d4d1a2b2", "tarjeta": "C00076", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.4481876, "evento": "cobro", "tx_id": "VB-357-9765369b", "tarjeta": "L00093", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.4584234, "evento": "rechazo", "tx_id": "VA-371-08f9cc66", "tarjeta": "C00114", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.4787183, "evento": "cobro", "tx_id": "VA-373-9f37a819", "tarjeta": "L00028", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771908.4986024, "evento": "rechazo", "tx_id": "VB-358-e0de40ae", "tarjeta": "C00132", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.5186374, "evento": "cobro", "tx_id": "VA-376-3de88708", "tarjeta": "L00082", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.5284896, "evento": "cobro", "tx_id": "VB-359-3f4bdbbc", "tarjeta": "L00045", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.538524, "evento": "rechazo", "tx_id": "VB-360-96d59730", "tarjeta": "C00093", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.569715, "evento": "rechazo", "tx_id": "VA-378-ac785cb5", "tarjeta": "C00141", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.5786684, "evento": "cobro", "tx_id": "VB-362-6501f387", "tarjeta": "L00084", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771908.5885692, "evento": "cobro", "tx_id": "VB-363-6b83edb6", "tarjeta": "C00124", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.598335, "evento": "cobro", "tx_id": "VB-364-bd084784", "tarjeta": "L00009", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771908.618244, "evento": "cobro", "tx_id": "VB-366-cbc549c1", "tarjeta": "L00024", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.6282, "evento": "cobro", "tx_id": "VA-379-2ef9b8e4", "tarjeta": "L00029", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.6380882, "evento": "cobro", "tx_id": "VB-367-bb311357", "tarjeta": "L00129", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.6484096, "evento": "cobro", "tx_id": "VA-380-e23a0273", "tarjeta": "L00096", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.6690145, "evento": "rechazo", "tx_id": "VB-369-1521907f", "tarjeta": "C00057", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.7087874, "evento": "rechazo", "tx_id": "VA-383-1fa61942", "tarjeta": "C00095", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.7188172, "evento": "cobro", "tx_id": "VA-384-95d1b5ef", "tarjeta": "L00119", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.7287176, "evento": "rechazo", "tx_id": "VA-385-54bedb50", "tarjeta": "C00116", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771908.7382686, "evento": "rechazo", "tx_id": "VA-386-b131ec5c", "tarjeta": "C00076", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.7587764, "evento": "cobro", "tx_id": "VA-387-34307254", "tarjeta": "L00125", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771908.7789562, "evento": "rechazo", "tx_id": "VA-389-e5002a30", "tarjeta": "C00095", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.7998497, "evento": "cobro", "tx_id": "VA-390-b248a23e", "tarjeta": "L00044", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.8081734, "evento": "cobro", "tx_id": "VB-373-c7d2722b", "tarjeta": "L00120", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.8287787, "evento": "cobro", "tx_id": "VA-391-b50318f2", "tarjeta": "L00127", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.838396, "evento": "cobro", "tx_id": "VA-392-0135c092", "tarjeta": "L00083", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.8486125, "evento": "cobro", "tx_id": "VA-393-992ff23b", "tarjeta": "C00007", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.8585372, "evento": "rechazo", "tx_id": "VB-375-1516d1ef", "tarjeta": "C00090", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771908.8896296, "evento": "cobro", "tx_id": "VA-396-d31f21c1", "tarjeta": "L00109", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771908.9492838, "evento": "cobro", "tx_id": "VA-399-2cac9629", "tarjeta": "C00138", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771908.9589567, "evento": "cobro", "tx_id": "VB-379-3d133532", "tarjeta": "C00039", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.9788058, "evento": "cobro", "tx_id": "VB-380-0cadb873", "tarjeta": "C00011", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771908.998404, "evento": "cobro", "tx_id": "VB-382-fe0b49bd", "tarjeta": "C00042", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.009135, "evento": "cobro", "tx_id": "VA-401-ef29a123", "tarjeta": "C00139", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.0192277, "evento": "cobro", "tx_id": "VA-402-b295e850", "tarjeta": "L00141", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771909.0290446, "evento": "cobro", "tx_id": "VB-383-e228e436", "tarjeta": "L00051", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.0783074, "evento": "cobro", "tx_id": "VA-406-484c362e", "tarjeta": "C00072", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.0882542, "evento": "cobro", "tx_id": "VB-385-d443fa05", "tarjeta": "L00021", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.1083882, "evento": "cobro", "tx_id": "VA-408-580a2cb4", "tarjeta": "C00044", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.1292787, "evento": "cobro", "tx_id": "VB-387-3a685b3b", "tarjeta": "L00103", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.1382205, "evento": "cobro", "tx_id": "VB-388-954b2615", "tarjeta": "C00068", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.1496012, "evento": "cobro", "tx_id": "VA-409-e4d0a64d", "tarjeta": "C00047", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.1583102, "evento": "rechazo", "tx_id": "VB-389-a97cb910", "tarjeta": "C00111", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771909.1685574, "evento": "cobro", "tx_id": "VB-390-40e2c109", "tarjeta": "L00100", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.198514, "evento": "cobro", "tx_id": "VA-411-949828f6", "tarjeta": "L00108", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771909.2083147, "evento": "cobro", "tx_id": "VB-392-cc497fdf", "tarjeta": "C00022", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.2495005, "evento": "rechazo", "tx_id": "VB-395-d838f777", "tarjeta": "C00138", "motivo": "uso_imposible_posible_clon"}
+{"ts": 1791771909.2886367, "evento": "cobro", "tx_id": "VB-397-3e9c0697", "tarjeta": "L00065", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.3085666, "evento": "cobro", "tx_id": "VB-398-810099be", "tarjeta": "L00047", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.339071, "evento": "cobro", "tx_id": "VB-400-9b12233e", "tarjeta": "C00083", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.3488898, "evento": "cobro", "tx_id": "VB-401-07bee53f", "tarjeta": "L00101", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.3585649, "evento": "cobro", "tx_id": "VB-402-bffbd258", "tarjeta": "C00005", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.368435, "evento": "cobro", "tx_id": "VB-403-9abfed4f", "tarjeta": "C00032", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.418568, "evento": "cobro", "tx_id": "VA-420-fd181ee2", "tarjeta": "L00104", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771909.428238, "evento": "cobro", "tx_id": "VB-405-3f109c8b", "tarjeta": "L00117", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.4793832, "evento": "cobro", "tx_id": "VA-421-5f96d4ca", "tarjeta": "L00033", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.4988818, "evento": "cobro", "tx_id": "VB-411-171f4951", "tarjeta": "L00000", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.5284772, "evento": "cobro", "tx_id": "VB-414-d322e5a4", "tarjeta": "L00085", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.5491052, "evento": "cobro", "tx_id": "VB-415-b1ed268d", "tarjeta": "L00131", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.5685015, "evento": "cobro", "tx_id": "VB-416-cb6c7dd4", "tarjeta": "L00138", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771909.6002128, "evento": "cobro", "tx_id": "VA-425-aef428c0", "tarjeta": "C00099", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.6190813, "evento": "cobro", "tx_id": "VB-419-da219857", "tarjeta": "L00013", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.6490107, "evento": "cobro", "tx_id": "VB-420-8238771d", "tarjeta": "L00072", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771909.6596467, "evento": "rechazo", "tx_id": "VA-428-8b2858ff", "tarjeta": "C00138", "motivo": "tarjeta_en_lista_negra"}
+{"ts": 1791771909.6688294, "evento": "cobro", "tx_id": "VA-429-6486daf4", "tarjeta": "L00099", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771909.6781917, "evento": "cobro", "tx_id": "VA-430-758de347", "tarjeta": "C00044", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.7088578, "evento": "cobro", "tx_id": "VA-432-fe38e251", "tarjeta": "L00136", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.7596297, "evento": "cobro", "tx_id": "VA-435-04c569fb", "tarjeta": "L00057", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771909.769055, "evento": "cobro", "tx_id": "VB-424-4b757490", "tarjeta": "L00073", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.7788482, "evento": "cobro", "tx_id": "VA-436-b9de647c", "tarjeta": "C00103", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.7882378, "evento": "cobro", "tx_id": "VB-425-2c658cd1", "tarjeta": "L00148", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.7987742, "evento": "cobro", "tx_id": "VB-426-8a10e485", "tarjeta": "L00074", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771909.8090453, "evento": "cobro", "tx_id": "VA-437-4a7d220e", "tarjeta": "L00054", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771909.819137, "evento": "cobro", "tx_id": "VB-427-777f5717", "tarjeta": "L00060", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.8283179, "evento": "cobro", "tx_id": "VB-428-5d301719", "tarjeta": "L00030", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.8389006, "evento": "cobro", "tx_id": "VB-429-ce47d758", "tarjeta": "L00098", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771909.8484464, "evento": "cobro", "tx_id": "VA-438-049a3c85", "tarjeta": "L00145", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771909.8684294, "evento": "cobro", "tx_id": "VA-439-d88803b7", "tarjeta": "L00107", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771909.8783848, "evento": "cobro", "tx_id": "VB-431-f1b3ec9a", "tarjeta": "C00100", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.8883207, "evento": "cobro", "tx_id": "VA-440-f5a5f6ec", "tarjeta": "L00123", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771909.9081597, "evento": "cobro", "tx_id": "VB-433-7401b466", "tarjeta": "L00133", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771909.9185631, "evento": "cobro", "tx_id": "VB-434-143bc690", "tarjeta": "L00081", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.9282842, "evento": "cobro", "tx_id": "VB-435-af5bdb93", "tarjeta": "L00091", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.9485176, "evento": "cobro", "tx_id": "VB-437-a1b6d66e", "tarjeta": "L00053", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.9588587, "evento": "cobro", "tx_id": "VB-438-4190f3e4", "tarjeta": "L00143", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771909.9882195, "evento": "cobro", "tx_id": "VA-442-c011cbf4", "tarjeta": "L00005", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.0085237, "evento": "cobro", "tx_id": "VA-443-ae85d50f", "tarjeta": "L00028", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771910.0290487, "evento": "cobro", "tx_id": "VB-442-b4587377", "tarjeta": "L00056", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.0686793, "evento": "cobro", "tx_id": "VB-443-5b3c112f", "tarjeta": "L00036", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771910.0782228, "evento": "cobro", "tx_id": "VB-444-8528c153", "tarjeta": "L00135", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771910.0983894, "evento": "cobro", "tx_id": "VB-445-86a35b56", "tarjeta": "L00097", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.1182969, "evento": "cobro", "tx_id": "VA-449-127d3302", "tarjeta": "L00064", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.128157, "evento": "cobro", "tx_id": "VA-450-35f4d0f4", "tarjeta": "L00003", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.1483676, "evento": "cobro", "tx_id": "VA-452-7b9beb3f", "tarjeta": "L00134", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771910.1581433, "evento": "cobro", "tx_id": "VB-446-e7abed3f", "tarjeta": "L00147", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.168291, "evento": "cobro", "tx_id": "VB-447-aae0d3de", "tarjeta": "L00115", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771910.1781685, "evento": "cobro", "tx_id": "VB-448-83bb836d", "tarjeta": "L00116", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771910.1881387, "evento": "cobro", "tx_id": "VA-453-f725a57e", "tarjeta": "L00040", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.218861, "evento": "cobro", "tx_id": "VA-455-a9107a65", "tarjeta": "L00069", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.2280881, "evento": "cobro", "tx_id": "VB-450-c01a6a2e", "tarjeta": "C00039", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.2402196, "evento": "cobro", "tx_id": "VA-456-8e3f69d7", "tarjeta": "L00132", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.24848, "evento": "cobro", "tx_id": "VA-457-2984540f", "tarjeta": "L00146", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.2681794, "evento": "cobro", "tx_id": "VA-459-2e8e29e2", "tarjeta": "L00007", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771910.2882698, "evento": "cobro", "tx_id": "VA-461-422531b1", "tarjeta": "L00130", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.2985237, "evento": "cobro", "tx_id": "VB-451-288f9dab", "tarjeta": "C00113", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.3284686, "evento": "cobro", "tx_id": "VA-463-6ce054d7", "tarjeta": "L00050", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.3386624, "evento": "cobro", "tx_id": "VA-464-11ad2efa", "tarjeta": "L00076", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771910.348225, "evento": "cobro", "tx_id": "VA-465-2c338d88", "tarjeta": "C00098", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.368762, "evento": "cobro", "tx_id": "VA-466-cb555dd8", "tarjeta": "L00070", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.3885784, "evento": "cobro", "tx_id": "VA-467-a61b9cc9", "tarjeta": "L00092", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.3986392, "evento": "cobro", "tx_id": "VA-468-6530581d", "tarjeta": "L00035", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.4186952, "evento": "cobro", "tx_id": "VA-469-fa3eed81", "tarjeta": "L00105", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771910.4286556, "evento": "cobro", "tx_id": "VA-470-52173d25", "tarjeta": "L00062", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.4688935, "evento": "cobro", "tx_id": "VB-457-7f4265ab", "tarjeta": "L00110", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771910.4785166, "evento": "cobro", "tx_id": "VB-458-620aa1f6", "tarjeta": "C00005", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.4884505, "evento": "cobro", "tx_id": "VA-473-d1bdbe7a", "tarjeta": "L00048", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771910.4982054, "evento": "cobro", "tx_id": "VA-474-9d351c5a", "tarjeta": "L00086", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.5081205, "evento": "cobro", "tx_id": "VA-475-f5c157a7", "tarjeta": "C00032", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.5285256, "evento": "cobro", "tx_id": "VB-460-316bd6fc", "tarjeta": "L00090", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.5387173, "evento": "cobro", "tx_id": "VA-476-b5b4c439", "tarjeta": "L00106", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.5483077, "evento": "cobro", "tx_id": "VB-461-62393069", "tarjeta": "L00095", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771910.5581043, "evento": "cobro", "tx_id": "VA-477-e85261d8", "tarjeta": "L00120", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.5685627, "evento": "cobro", "tx_id": "VB-462-f56bb9b4", "tarjeta": "L00034", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.578261, "evento": "cobro", "tx_id": "VA-478-d053e8bb", "tarjeta": "C00069", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.5888333, "evento": "cobro", "tx_id": "VA-479-b74c8d12", "tarjeta": "L00149", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771910.598112, "evento": "cobro", "tx_id": "VA-480-5110597e", "tarjeta": "L00023", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.62867, "evento": "cobro", "tx_id": "VA-481-109625f5", "tarjeta": "C00017", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.6382024, "evento": "cobro", "tx_id": "VA-482-889cfb3d", "tarjeta": "L00004", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.6539342, "evento": "cobro", "tx_id": "VB-465-c0feec8d", "tarjeta": "L00124", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771910.6887035, "evento": "cobro", "tx_id": "VA-485-ad4892e0", "tarjeta": "C00007", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.6986492, "evento": "cobro", "tx_id": "VA-486-5ab6bbb7", "tarjeta": "L00052", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.7081554, "evento": "cobro", "tx_id": "VA-487-7695dcd2", "tarjeta": "L00112", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771910.7185812, "evento": "cobro", "tx_id": "VB-467-0a1b6b73", "tarjeta": "L00118", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.728527, "evento": "cobro", "tx_id": "VB-468-7645e353", "tarjeta": "L00066", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771910.7387013, "evento": "cobro", "tx_id": "VB-469-59fa4f7e", "tarjeta": "L00079", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771910.768524, "evento": "cobro", "tx_id": "VA-488-83fcf294", "tarjeta": "L00122", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771910.7786584, "evento": "cobro", "tx_id": "VB-472-c9410f8d", "tarjeta": "L00065", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.788807, "evento": "cobro", "tx_id": "VA-489-a9a7d4ce", "tarjeta": "L00002", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.7984178, "evento": "cobro", "tx_id": "VA-490-2b9e59a8", "tarjeta": "L00038", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.8085384, "evento": "cobro", "tx_id": "VA-491-82bfd2d2", "tarjeta": "L00046", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.818738, "evento": "cobro", "tx_id": "VB-473-43a0229a", "tarjeta": "L00111", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771910.8285465, "evento": "cobro", "tx_id": "VB-474-f3caa1e4", "tarjeta": "L00126", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.8387108, "evento": "cobro", "tx_id": "VA-492-dbb3c23a", "tarjeta": "L00078", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771910.8488624, "evento": "cobro", "tx_id": "VB-475-3bd74b24", "tarjeta": "L00063", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771910.8781595, "evento": "cobro", "tx_id": "VA-495-5a40a873", "tarjeta": "C00042", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.8982663, "evento": "cobro", "tx_id": "VA-496-bc059676", "tarjeta": "C00018", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.90821, "evento": "cobro", "tx_id": "VA-497-d39f3941", "tarjeta": "L00067", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.9185734, "evento": "cobro", "tx_id": "VA-498-b7892b2f", "tarjeta": "L00008", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.9281464, "evento": "cobro", "tx_id": "VA-499-eccad3f6", "tarjeta": "L00015", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771910.9384272, "evento": "cobro", "tx_id": "VB-477-268c9b07", "tarjeta": "L00031", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771910.9591265, "evento": "cobro", "tx_id": "VB-478-4ac15989", "tarjeta": "L00024", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771910.9787636, "evento": "cobro", "tx_id": "VA-501-9f310dd6", "tarjeta": "L00100", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771910.9994504, "evento": "cobro", "tx_id": "VB-481-a5073e39", "tarjeta": "C00068", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.008629, "evento": "cobro", "tx_id": "VB-482-837706f4", "tarjeta": "L00125", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771911.0183897, "evento": "cobro", "tx_id": "VA-502-f4cb566e", "tarjeta": "L00026", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.0283675, "evento": "cobro", "tx_id": "VA-503-e4f74f6c", "tarjeta": "L00022", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.0391514, "evento": "cobro", "tx_id": "VA-504-34ba2078", "tarjeta": "L00006", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.0570638, "evento": "cobro", "tx_id": "VA-505-9d179005", "tarjeta": "L00108", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771911.0592191, "evento": "cobro", "tx_id": "VA-506-b7fb3452", "tarjeta": "L00039", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771911.0787, "evento": "cobro", "tx_id": "VA-507-1a4a412f", "tarjeta": "L00075", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771911.0893552, "evento": "cobro", "tx_id": "VB-484-c92c6ce0", "tarjeta": "L00121", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771911.0983076, "evento": "cobro", "tx_id": "VB-485-2b757c6a", "tarjeta": "L00088", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.1209714, "evento": "cobro", "tx_id": "VB-487-12fb6d70", "tarjeta": "C00096", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.1493545, "evento": "cobro", "tx_id": "VA-508-aff39083", "tarjeta": "L00020", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.1585536, "evento": "cobro", "tx_id": "VA-509-7b7fa128", "tarjeta": "L00025", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771911.1691427, "evento": "cobro", "tx_id": "VB-490-7285f0d4", "tarjeta": "C00083", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.1788485, "evento": "cobro", "tx_id": "VB-491-2b4b3bb9", "tarjeta": "L00139", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771911.2082403, "evento": "cobro", "tx_id": "VA-512-83cced31", "tarjeta": "L00113", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.220314, "evento": "cobro", "tx_id": "VA-513-7d3c75b0", "tarjeta": "L00094", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771911.2392898, "evento": "cobro", "tx_id": "VB-493-3a64012e", "tarjeta": "L00093", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.2482972, "evento": "cobro", "tx_id": "VB-494-e32afaad", "tarjeta": "C00139", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.258442, "evento": "cobro", "tx_id": "VB-495-7452c34e", "tarjeta": "L00084", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771911.2681756, "evento": "cobro", "tx_id": "VB-496-999cb93e", "tarjeta": "L00127", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771911.278739, "evento": "cobro", "tx_id": "VB-497-f3932452", "tarjeta": "C00124", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.2888887, "evento": "cobro", "tx_id": "VA-514-f789a14c", "tarjeta": "L00068", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.3400836, "evento": "cobro", "tx_id": "VB-500-fadc3f8c", "tarjeta": "L00071", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771911.3491058, "evento": "cobro", "tx_id": "VA-517-14d5e486", "tarjeta": "L00141", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771911.368865, "evento": "cobro", "tx_id": "VB-502-42747371", "tarjeta": "L00014", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771911.3882987, "evento": "cobro", "tx_id": "VB-504-b6e6cfb2", "tarjeta": "C00047", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.398782, "evento": "cobro", "tx_id": "VB-505-987f9231", "tarjeta": "L00102", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.4084423, "evento": "cobro", "tx_id": "VA-518-c3fdd689", "tarjeta": "L00044", "valor": 2250, "offline": false, "validador": "VA"}
+{"ts": 1791771911.4287603, "evento": "cobro", "tx_id": "VA-519-24e9174f", "tarjeta": "L00047", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.4382656, "evento": "cobro", "tx_id": "VB-507-d1cfff3c", "tarjeta": "L00083", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.4484465, "evento": "cobro", "tx_id": "VA-520-e5d7ccc0", "tarjeta": "L00041", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.4591467, "evento": "cobro", "tx_id": "VA-521-e2f513cd", "tarjeta": "L00144", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.4683015, "evento": "cobro", "tx_id": "VA-522-3b14f674", "tarjeta": "L00049", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771911.498977, "evento": "cobro", "tx_id": "VA-525-a049e31e", "tarjeta": "L00089", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771911.508401, "evento": "cobro", "tx_id": "VA-526-3c3981fc", "tarjeta": "L00114", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771911.520421, "evento": "cobro", "tx_id": "VB-508-c6226718", "tarjeta": "L00128", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771911.5382662, "evento": "cobro", "tx_id": "VA-527-e98021f5", "tarjeta": "L00051", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.5480494, "evento": "cobro", "tx_id": "VB-510-255d84dc", "tarjeta": "C00146", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.5682404, "evento": "cobro", "tx_id": "VA-529-d531610b", "tarjeta": "L00129", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.5786839, "evento": "cobro", "tx_id": "VB-511-34f8f130", "tarjeta": "C00118", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.5889757, "evento": "cobro", "tx_id": "VB-512-fddc4aea", "tarjeta": "L00016", "valor": 2000, "offline": false, "validador": "VB"}
+{"ts": 1791771911.5991702, "evento": "cobro", "tx_id": "VA-530-66bd1e65", "tarjeta": "L00042", "valor": 3200, "offline": false, "validador": "VA"}
+{"ts": 1791771911.6184783, "evento": "cobro", "tx_id": "VB-513-41a2b32c", "tarjeta": "L00029", "valor": 2250, "offline": false, "validador": "VB"}
+{"ts": 1791771911.6281419, "evento": "cobro", "tx_id": "VA-532-1168b11d", "tarjeta": "L00009", "valor": 2000, "offline": false, "validador": "VA"}
+{"ts": 1791771911.6382732, "evento": "cobro", "tx_id": "VB-514-95410503", "tarjeta": "L00103", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.6487691, "evento": "cobro", "tx_id": "VB-515-caed597c", "tarjeta": "C00072", "valor": 3200, "offline": false, "validador": "VB"}
+{"ts": 1791771911.6781843, "evento": "cobro", "tx_id": "VB-518-5da78ef6", "tarjeta": "L00027", "valor": 2000, "offline": false, "validador": "VB"}

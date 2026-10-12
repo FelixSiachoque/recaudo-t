@@ -1,0 +1,14 @@
+{
+  "n": 7500,
+  "media_ms": 1.505,
+  "p50_ms": 1.415,
+  "p95_ms": 2.018,
+  "p99_ms": 3.471,
+  "max_ms": 32.573,
+  "jitter_ms": 0.265,
+  "desv_est_ms": 0.619,
+  "condicion": "con_deteccion_memoria",
+  "repeticion": 3,
+  "throughput_rps": 247.1,
+  "no_procesadas": 0
+}

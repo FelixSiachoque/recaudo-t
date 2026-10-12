@@ -1,0 +1,10 @@
+{
+  "version": "2026-11-B",
+  "tarifas": {
+    "general":      {"pico": 3200, "valle": 2950},
+    "estudiante":   {"pico": 2250, "valle": 1950},
+    "adulto_mayor": {"pico": 2000, "valle": 1800},
+    "discapacidad": {"pico": 1600, "valle": 1500}
+  },
+  "transbordos": {"primero": 300, "segundo_o_mas": 0}
+}
